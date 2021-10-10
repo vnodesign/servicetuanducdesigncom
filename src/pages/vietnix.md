@@ -1,0 +1,15 @@
+---
+title: Vietnix
+subtitle: >-
+  Dịch vụ Hosting đầu tiên tại Việt Nam tập trung phát triển công nghệ chống tấn
+  công DDoS chuyên nghiệp. Bạn hoàn toàn yên tâm với dịch vụ của Vietnix.
+image_alt: Vietnix
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+template: page
+image: images/vietnix.png
+---
+Nội dung đang được cập nhật.

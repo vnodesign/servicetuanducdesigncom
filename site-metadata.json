@@ -1,0 +1,207 @@
+{
+    "base_font": "system-sans",
+    "palette": "blue",
+    "header": {
+        "logo_img": "images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg",
+        "logo_img_alt": "Tuan Duc Design",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Trang chủ",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Dịch vụ",
+                "url": "/services",
+                "style": "link"
+            },
+            {
+                "label": "Bảng giá",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "label": "Công cụ",
+                "url": "/tools-vps",
+                "style": "link"
+            },
+            {
+                "label": "Hệ điều hành",
+                "url": "/os-vps",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Cài đặt Mã nguồn",
+                "url": "/install-source-code",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Nhà cung cấp",
+                "url": "/provider-vps",
+                "style": "link"
+            },
+            {
+                "label": "FAQ",
+                "url": "/faq",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Tài liệu",
+                "url": "/docs",
+                "style": "primary",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Liên hệ",
+                "url": "/contacts",
+                "style": "secondary",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": true,
+                "no_follow": false
+            }
+        ]
+    },
+    "footer": {
+        "sections": [
+            {
+                "type": "footer_text",
+                "image": "images/B5B2444A-79B2-42B1-AE08-FF1CCE67FFE5_4_6006.png",
+                "image_url": "/",
+                "image_alt": "Tuan Duc Design",
+                "content": "Chuyên cung cấp dịch vụ VPS và Website, Hướng dẫn bảo mật VPS và Website từ cơ bản đến nâng cao cho người không chuyên, Hỗ trợ cài đặt VPS,Tối ưu VPS thông qua module PageSpeed của Google,Cài đặt Memcached,Redis,SSL và Cloudflare.\n"
+            },
+            {
+                "type": "footer_nav",
+                "title": "Cộng đồng",
+                "nav_links": [
+                    {
+                        "label": "Facebook",
+                        "url": "https://www.facebook.com/tuanducdesign/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "facebook",
+                        "new_window": true,
+                        "no_follow": true
+                    },
+                    {
+                        "label": "Twitter",
+                        "url": "https://twitter.com/tuanducdesign/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "twitter",
+                        "new_window": true,
+                        "no_follow": true
+                    },
+                    {
+                        "label": "Instagram",
+                        "url": "https://www.instagram.com/mi.profile.56/",
+                        "style": "link",
+                        "icon": "instagram",
+                        "has_icon": true,
+                        "new_window": true,
+                        "no_follow": true
+                    },
+                    {
+                        "label": "Github",
+                        "url": "https://github.com/tuanducdesign/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "github",
+                        "new_window": true,
+                        "no_follow": true
+                    }
+                ]
+            },
+            {
+                "type": "footer_nav",
+                "title": "Khách hàng",
+                "nav_links": [
+                    {
+                        "label": "Lạc Hồng Viên",
+                        "url": "https://lachongvien.com/",
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "twitter",
+                        "icon_position": "left",
+                        "new_window": true,
+                        "no_follow": true
+                    },
+                    {
+                        "label": "Đồ Thờ Tốt",
+                        "url": "https://dothotot.vn/",
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "linkedin",
+                        "icon_position": "left",
+                        "new_window": true,
+                        "no_follow": true
+                    },
+                    {
+                        "label": "Penci",
+                        "url": "https://penci.me/",
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "github",
+                        "icon_position": "left",
+                        "new_window": true,
+                        "no_follow": true
+                    }
+                ]
+            },
+            {
+                "title": "Cùng hệ thống",
+                "nav_links": [
+                    {
+                        "label": "Blog Tuan Duc Design",
+                        "url": "https://tuanducdesign.com",
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "arrow-left",
+                        "icon_position": "left",
+                        "new_window": true,
+                        "no_follow": false
+                    },
+                    {
+                        "label": "Profile Tuan Duc Design",
+                        "url": "https://profile.tuanducdesign.com",
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "arrow-left",
+                        "icon_position": "left",
+                        "new_window": true,
+                        "no_follow": false
+                    }
+                ],
+                "type": "footer_nav"
+            }
+        ],
+        "has_nav": true,
+        "nav_links": [],
+        "content": "Copyright © 2021 - <a href=\"https://tuanducdesign.com\" title=\"Tuan Duc Design\">Tuan Duc Design</a> - All Rights Reserved."
+    },
+    "title": "Tuan Duc Design",
+    "domain": "https://service.tuanducdesign.com",
+    "favicon": "images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg"
+}
