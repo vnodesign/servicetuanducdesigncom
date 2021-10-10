@@ -8,7 +8,7 @@ sections:
     type: section_hero
   - section_id: install-vps-pro-main
     background: gray
-    form_id: install-vps-free
+    form_id: install-vps-pro
     form_action: install-vps-free
     hide_labels: false
     form_fields:
