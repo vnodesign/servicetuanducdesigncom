@@ -55,7 +55,7 @@ sections:
         options: []
         is_required: true
       - input_type: text
-        name: 'Mật khẩu '
+        name: Mật khẩu đăng nhập Admin WordPress *
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
