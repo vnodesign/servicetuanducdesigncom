@@ -24,22 +24,6 @@ sections:
         default_value: Địa chỉ Email
         options: []
         is_required: true
-      - input_type: select
-        name: Bạn dùng thẻ ở ngân hàng nào? *
-        label: Bạn dùng thẻ ở ngân hàng nào? *
-        default_value: Lựa chọn ngân hàng
-        options:
-          - Ngân hàng VPBank
-          - Ngân hàng ACB
-          - Ngân hàng BIDV
-          - Ngân hàng Đông Á Bank
-          - Ngân hàng PVCombank
-          - Ngân hàng Sacombank
-          - Ngân hàng SHB
-          - Ngân hàng SeaBank
-          - Ngân hàng TP Bank
-          - Ngân hàng Vietcombank
-        is_required: true
       - input_type: text
         name: IP VPS *
         label: IP VPS *
