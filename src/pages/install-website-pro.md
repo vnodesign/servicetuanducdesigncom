@@ -6,7 +6,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-  - section_id: install-website-basic-main
+  - section_id: install-website-pro-main
     background: gray
     form_id: install-vps-basic
     form_action: install-vps-basic
