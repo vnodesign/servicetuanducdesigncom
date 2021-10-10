@@ -7,7 +7,7 @@ export default function HTML(props) {
       <head itemscope itemtype="https://schema.org/WebSite">
         {props.headComponents}
       </head>
-      <body {...props.bodyAttributes}>
+      <body {...props.bodyAttributes} itemscope="itemscope" itemtype="https://schema.org/WebPage">
         {props.preBodyComponents}
         <noscript key="noscript" id="gatsby-noscript">
           This app works best with JavaScript enabled.
