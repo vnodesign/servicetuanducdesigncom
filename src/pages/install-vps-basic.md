@@ -67,7 +67,7 @@ sections:
       - input_type: text
         name: Tên trên thẻ ngân hàng *
         label: Tên trên thẻ ngân hàng *
-        default_value: lorem-ipsum
+        default_value: Tên trên thẻ ngân hàng
         options: []
         is_required: false
     submit_label: Submit
