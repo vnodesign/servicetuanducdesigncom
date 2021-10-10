@@ -2,7 +2,7 @@
 title: Cài đặt VPS Basic
 sections:
   - section_id: install-vps-basic
-    title: Cài đặt VPS cơ bản
+    title: Cài đặt VPS Basic
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
