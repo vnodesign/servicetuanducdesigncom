@@ -1,5 +1,5 @@
 ---
-title: Cài đặt Website Basic
+title: Cài đặt Website Pro
 sections:
   - section_id: install-vps-basic
     title: Cài đặt VPS Basic
