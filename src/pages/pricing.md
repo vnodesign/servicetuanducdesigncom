@@ -181,7 +181,5 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Pricing
-    - name: 'twitter:description'
-      value: This is the pricing page
 template: landing
 ---
