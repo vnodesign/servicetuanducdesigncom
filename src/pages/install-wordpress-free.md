@@ -45,7 +45,7 @@ sections:
       - input_type: number
         name: PORT VPS (Nếu có)
         label: PORT VPS (Nếu có)
-        default_value: lorem-ipsum
+        default_value: Mặc định port login ssh là 22
         options: []
         is_required: false
     submit_label: Submit
