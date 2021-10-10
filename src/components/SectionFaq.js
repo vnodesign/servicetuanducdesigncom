@@ -22,7 +22,7 @@ export default class SectionFaq extends React.Component {
                 {_.get(section, 'faq_items', null) && (
                 <div className="faq-accordion handorgel">
                   {_.map(_.get(section, 'faq_items', null), (faqitem, faqitem_idx) => (<React.Fragment key={faqitem_idx + '.2'}>
-                  <h3 key={faqitem_idx} className="faq-accordion-header handorgel__header">
+                  <h3 key={faqitem_idx} className="faq-accordion-header handorgel__header wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
                     <button className="handorgel__trigger">
                       <span>{_.get(faqitem, 'question', null)}</span>
                       <span className="handorgel__icon icon-plus" />
