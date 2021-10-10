@@ -37,6 +37,7 @@ export default class FormField extends React.Component {
                 ) : 
                 <input id={_.get(field, 'name', null)} type={_.get(field, 'input_type', null)} name={_.get(field, 'name', null)} {...(_.get(field, 'label', null) ? ({"aria-labelledby": _.get(field, 'name', null) + '-label'}) : null)}{...(_.get(field, 'default_value', null) ? ({placeholder: _.get(field, 'default_value', null)}) : null)}{...(_.get(field, 'is_required', null) ? ({required: true}) : null)} />
                 ))}
+                
             </React.Fragment>
         );
     }
