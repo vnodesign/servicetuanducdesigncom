@@ -56,7 +56,7 @@ sections:
         is_required: true
       - input_type: text
         name: Mật khẩu *
-        label: lorem-ipsum
+        label: Mật khẩu *
         default_value: lorem-ipsum
         options: []
         is_required: false
