@@ -33,7 +33,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: Nội dung *
-        label: Mật khẩu VPS *
+        label: Nội dung *
         default_value: Mật khẩu VPS
         options: []
         is_required: true
