@@ -8,7 +8,7 @@ sections:
     type: section_hero
   - section_id: install-wordpress-free-main
     background: gray
-    form_id: install-website-free
+    form_id: install-wordpress-free
     form_action: install-website-free
     hide_labels: false
     form_fields:
