@@ -47,15 +47,15 @@ sections:
         options: []
         is_required: true
       - input_type: number
-        name: IP VPS *
-        label: IP VPS *
-        default_value: IP VPS
-        options: []
-        is_required: true
-      - input_type: number
         name: Số tài khoản ngân hàng *
         label: Số tài khoản ngân hàng *
         default_value: Số tài khoản ngân hàng
+        options: []
+        is_required: true
+      - input_type: number
+        name: IP VPS *
+        label: IP VPS *
+        default_value: IP VPS
         options: []
         is_required: true
       - input_type: number
