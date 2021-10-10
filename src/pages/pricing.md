@@ -177,9 +177,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Pricing
-      keyName: property
     - name: 'og:description'
       value: This is the pricing page
       keyName: property
