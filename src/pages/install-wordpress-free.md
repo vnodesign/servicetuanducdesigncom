@@ -36,7 +36,7 @@ sections:
         default_value: Mật khẩu đăng nhập Admin WordPress
         options: []
         is_required: false
-      - input_type: text
+      - input_type: number
         name: IP VPS *
         label: IP VPS *
         default_value: lorem-ipsum
