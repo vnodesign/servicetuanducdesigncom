@@ -68,7 +68,7 @@ sections:
         is_required: true
       - input_type: text
         name: Tên đăng nhập vào tên miền *
-        label: lorem-ipsum
+        label: Tên đăng nhập vào tên miền *
         default_value: lorem-ipsum
         options: []
         is_required: false
