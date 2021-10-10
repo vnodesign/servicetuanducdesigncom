@@ -19,7 +19,7 @@ export default class SectionContact extends React.Component {
                 </p>
                 )}
               </div>
-              <div className="block-content inner-medium wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+              <div className="block-content inner-medium">
                 {markdownify(_.get(section, 'content', null))}
                 <form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)}{...(_.get(section, 'form_action', null) ? ({action: _.get(section, 'form_action', null)}) : null)} method="POST" data-netlify="true" data-netlify-honeypot={_.get(section, 'form_id', null) + '-bot-field'}>
                   <div className="screen-reader-text">
