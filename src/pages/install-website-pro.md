@@ -8,7 +8,7 @@ sections:
     type: section_hero
   - section_id: install-website-pro-main
     background: gray
-    form_id: install-website-basic
+    form_id: install-website-pro
     form_action: install-vps-basic
     hide_labels: false
     form_fields:
