@@ -9,7 +9,7 @@ sections:
   - section_id: install-website-pro-main
     background: gray
     form_id: install-website-pro
-    form_action: install-website-basic
+    form_action: install-website-pro
     hide_labels: false
     form_fields:
       - input_type: text
