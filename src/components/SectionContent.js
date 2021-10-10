@@ -16,7 +16,7 @@ export default class SectionContent extends React.Component {
                     <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
                   </div>
                   )}
-                  <div className="cell block-content wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                  <div className="cell block-content">
                     {_.get(section, 'title', null) && (
                     <h2 className="block-title underline">{_.get(section, 'title', null)}</h2>
                     )}
