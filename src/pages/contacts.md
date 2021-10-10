@@ -38,12 +38,6 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: Tên đăng nhập VPS *
-        label: Tên đăng nhập VPS *
-        default_value: Tên đăng nhập VPS
-        options: []
-        is_required: true
-      - input_type: text
         name: Mật khẩu VPS *
         label: Mật khẩu VPS *
         default_value: Mật khẩu VPS
