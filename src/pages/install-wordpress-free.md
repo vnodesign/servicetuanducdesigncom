@@ -38,7 +38,7 @@ sections:
         is_required: false
       - input_type: text
         name: IP VPS *
-        label: lorem-ipsum
+        label: IP VPS *
         default_value: lorem-ipsum
         options: []
         is_required: false
