@@ -25,12 +25,6 @@ sections:
         default_value: Địa chỉ Email
         options: []
         is_required: true
-      - input_type: select
-        name: Bạn cần hỗ trợ về
-        label: Tên trên thẻ ngân hàng *
-        default_value: Tên trên thẻ ngân hàng
-        options: []
-        is_required: true
       - input_type: textarea
         name: Nội dung *
         label: Nội dung *
