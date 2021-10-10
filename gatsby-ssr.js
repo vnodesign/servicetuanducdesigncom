@@ -19,7 +19,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
             <script src={withPrefix('js/init.js')} defer/>
             <script src={withPrefix('js/main.js')} defer/>
             <script>window.fbAsyncInit=function(){FB.init({xfbml:!0,version:"v10.0"})};</script>
-<script src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js" async defer></script>
+            <script src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js" async defer></script>
         </React.Fragment>
     ]);
 
