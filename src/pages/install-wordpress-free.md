@@ -62,7 +62,7 @@ sections:
         is_required: true
       - input_type: text
         name: Nhà đăng ký tên miền *
-        label: lorem-ipsum
+        label: Nhà đăng ký tên miền *
         default_value: lorem-ipsum
         options: []
         is_required: false
