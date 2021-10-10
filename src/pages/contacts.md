@@ -26,7 +26,7 @@ sections:
         options: []
         is_required: true
       - input_type: select
-        name: Tên trên thẻ ngân hàng *
+        name: Bạn cần hỗ trợ về
         label: Tên trên thẻ ngân hàng *
         default_value: Tên trên thẻ ngân hàng
         options: []
