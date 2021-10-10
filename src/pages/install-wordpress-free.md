@@ -41,7 +41,7 @@ sections:
         label: IP VPS *
         default_value: IP VPS
         options: []
-        is_required: false
+        is_required: true
     submit_label: Submit
     type: section_contact
 seo:
