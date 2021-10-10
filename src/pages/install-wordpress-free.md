@@ -63,7 +63,7 @@ sections:
       - input_type: text
         name: Nhà đăng ký tên miền *
         label: Nhà đăng ký tên miền *
-        default_value: lorem-ipsum
+        default_value: Nhà đăng ký tên miền
         options: []
         is_required: false
     submit_label: Submit
