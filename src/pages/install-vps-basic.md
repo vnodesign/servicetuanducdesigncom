@@ -1,5 +1,5 @@
 ---
-title: 'Cài đặt VPS '
+title: Cài đặt VPS cơ bản
 sections:
   - section_id: install-vps-free
     title: Cài đặt VPS miễn phí
