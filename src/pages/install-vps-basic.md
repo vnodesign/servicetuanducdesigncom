@@ -9,7 +9,7 @@ sections:
   - section_id: install-vps-basic-main
     background: gray
     form_id: install-vps-basic
-    form_action: install-vps-free
+    form_action: install-vps-basic
     hide_labels: false
     form_fields:
       - input_type: text
