@@ -1,5 +1,5 @@
 ---
-title: 'Cài đặt VPS '
+title: Cài đặt VPS Pro
 sections:
   - section_id: install-vps-basic
     title: Cài đặt VPS cơ bản
