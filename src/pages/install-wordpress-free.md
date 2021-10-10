@@ -24,12 +24,6 @@ sections:
         default_value: Địa chỉ Email
         options: []
         is_required: true
-      - input_type: number
-        name: PORT VPS (Nếu có)
-        label: PORT VPS (Nếu có)
-        default_value: Mặc định port login ssh là 22
-        options: []
-        is_required: false
       - input_type: text
         name: Tên đăng nhập VPS *
         label: Tên đăng nhập VPS *
