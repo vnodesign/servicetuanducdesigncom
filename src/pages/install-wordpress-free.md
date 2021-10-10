@@ -9,7 +9,7 @@ sections:
   - section_id: install-wordpress-free-main
     background: gray
     form_id: install-wordpress-free
-    form_action: install-website-free
+    form_action: install-wordpress-free
     hide_labels: false
     form_fields:
       - input_type: text
