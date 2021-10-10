@@ -53,7 +53,7 @@ sections:
         label: Tên đăng nhập *
         default_value: Tên đăng nhập
         options: []
-        is_required: false
+        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
