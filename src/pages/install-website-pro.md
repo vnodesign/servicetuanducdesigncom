@@ -1,7 +1,7 @@
 ---
 title: Cài đặt Website Pro
 sections:
-  - section_id: install-vps-basic
+  - section_id: install-website-basic
     title: Cài đặt Website Pro
     image_alt: lorem-ipsum
     actions: []
