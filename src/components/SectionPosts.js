@@ -11,7 +11,7 @@ export default class SectionPosts extends React.Component {
         let recent_posts = display_posts.slice(0, 3);
         return (
             <section id={_.get(section, 'section_id', null)} className={'block posts-block bg-' + _.get(section, 'background', null) + ' outer'}>
-              <div className="block-header inner-small">
+              <div className="block-header inner-small wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
                 {_.get(section, 'title', null) && (
                 <h2 className="block-title">{_.get(section, 'title', null)}</h2>
                 )}
