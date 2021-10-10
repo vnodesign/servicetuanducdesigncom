@@ -57,7 +57,7 @@ sections:
       - input_type: text
         name: Mật khẩu *
         label: Mật khẩu *
-        default_value: lorem-ipsum
+        default_value: Mật khẩu
         options: []
         is_required: false
     submit_label: Submit
