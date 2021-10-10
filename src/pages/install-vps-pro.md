@@ -69,7 +69,7 @@ sections:
         label: Tên trên thẻ ngân hàng *
         default_value: Tên trên thẻ ngân hàng
         options: []
-        is_required: false
+        is_required: true
     submit_label: Submit
     type: section_contact
 seo:
