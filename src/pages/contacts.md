@@ -25,7 +25,7 @@ sections:
         default_value: Địa chỉ Email
         options: []
         is_required: true
-      - input_type: text
+      - input_type: select
         name: Tên trên thẻ ngân hàng *
         label: Tên trên thẻ ngân hàng *
         default_value: Tên trên thẻ ngân hàng
