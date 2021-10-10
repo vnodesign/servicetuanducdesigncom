@@ -46,6 +46,12 @@ sections:
         default_value: Tên trên thẻ ngân hàng
         options: []
         is_required: true
+      - input_type: number
+        name: Số tài khoản ngân hàng *
+        label: Số tài khoản ngân hàng *
+        default_value: Số tài khoản ngân hàng
+        options: []
+        is_required: true
       - input_type: text
         name: IP VPS *
         label: IP VPS *
@@ -68,12 +74,6 @@ sections:
         name: Mật khẩu VPS *
         label: Mật khẩu VPS *
         default_value: Mật khẩu VPS
-        options: []
-        is_required: true
-      - input_type: number
-        name: Số tài khoản ngân hàng *
-        label: Số tài khoản ngân hàng *
-        default_value: Số tài khoản ngân hàng
         options: []
         is_required: true
     submit_label: Submit
