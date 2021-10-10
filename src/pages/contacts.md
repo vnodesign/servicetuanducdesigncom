@@ -7,7 +7,6 @@ sections:
     actions: []
     type: section_hero
   - section_id: contact-main
-    title: Liên hệ với chúng tôi
     background: gray
     form_id: contacts
     form_action: contacts
