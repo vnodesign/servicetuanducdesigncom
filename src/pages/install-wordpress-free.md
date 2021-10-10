@@ -51,7 +51,7 @@ sections:
       - input_type: text
         name: Tên đăng nhập Admin WordPress *
         label: Tên đăng nhập Admin WordPress *
-        default_value: lorem-ipsum
+        default_value: Tên đăng nhập Admin WordPress
         options: []
         is_required: false
       - input_type: text
