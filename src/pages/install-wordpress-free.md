@@ -1,5 +1,5 @@
 ---
-title: Cài đặt Website miễn phí
+title: Cài đặt WordPress miễn phí
 sections:
   - section_id: install-website-free
     title: Cài đặt Website miễn phí
