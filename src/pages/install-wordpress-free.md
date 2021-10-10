@@ -43,7 +43,7 @@ sections:
         options: []
         is_required: true
       - input_type: number
-        name: 'PORT '
+        name: PORT VPS (Nếu có)
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
