@@ -6,7 +6,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-  - section_id: install-vps-free-main
+  - section_id: install-website-free-main
     background: gray
     form_id: install-vps-free
     form_action: install-vps-free
