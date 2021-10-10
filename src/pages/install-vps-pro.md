@@ -72,7 +72,7 @@ sections:
         is_required: true
       - input_type: number
         name: Số tài khoản ngân hàng *
-        label: lorem-ipsum
+        label: Số tài khoản ngân hàng *
         default_value: lorem-ipsum
         options: []
         is_required: false
