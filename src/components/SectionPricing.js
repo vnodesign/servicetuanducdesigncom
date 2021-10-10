@@ -9,7 +9,7 @@ export default class SectionPricing extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section id={_.get(section, 'section_id', null)} className={'block pricing-block bg-' + _.get(section, 'background', null) + ' outer'}>
-              <div className="block-header inner-small">
+              <div className="block-header inner-small ">
                 {_.get(section, 'title', null) && (
                 <h2 className="block-title">{_.get(section, 'title', null)}</h2>
                 )}
