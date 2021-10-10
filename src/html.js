@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
-      <head>
+      <head itemscope itemtype="https://schema.org/WebSite">
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
