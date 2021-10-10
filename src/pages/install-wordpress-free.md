@@ -51,7 +51,7 @@ sections:
       - input_type: text
         name: Tên đăng nhập *
         label: Tên đăng nhập *
-        default_value: Tên đăng nhập
+        default_value: Tên đăng nhập VPS
         options: []
         is_required: true
       - input_type: text
