@@ -173,7 +173,6 @@ sections:
             no_follow: false
     type: section_pricing
 seo:
-  description: This is the pricing page
   extra:
     - name: 'og:type'
       value: website
