@@ -49,7 +49,7 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: Tên đăng nhập
+        name: Tên đăng nhập *
         label: Tên đăng nhập *
         default_value: lorem-ipsum
         options: []
