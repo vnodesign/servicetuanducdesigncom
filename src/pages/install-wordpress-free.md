@@ -6,7 +6,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-  - section_id: install-website-free-main
+  - section_id: install-wordpress-free-main
     background: gray
     form_id: install-website-free
     form_action: install-website-free
