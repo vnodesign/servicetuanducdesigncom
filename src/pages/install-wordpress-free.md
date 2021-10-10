@@ -39,7 +39,7 @@ sections:
       - input_type: number
         name: IP VPS *
         label: IP VPS *
-        default_value: lorem-ipsum
+        default_value: IP VPS
         options: []
         is_required: false
     submit_label: Submit
