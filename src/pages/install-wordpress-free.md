@@ -65,7 +65,7 @@ sections:
         label: Nhà đăng ký tên miền *
         default_value: Nhà đăng ký tên miền
         options: []
-        is_required: false
+        is_required: true
     submit_label: Submit
     type: section_contact
 seo:
