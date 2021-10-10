@@ -78,7 +78,6 @@ sections:
         is_required: true
     submit_label: Submit
     type: section_contact
-    title: Cài đặt VPS miễn phí
 seo:
   title: ''
   description: ''
