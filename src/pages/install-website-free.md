@@ -9,7 +9,7 @@ sections:
   - section_id: install-website-free-main
     background: gray
     form_id: install-website-free
-    form_action: install-vps-free
+    form_action: install-website-free
     hide_labels: false
     form_fields:
       - input_type: text
