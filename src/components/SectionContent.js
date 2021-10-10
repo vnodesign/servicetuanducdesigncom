@@ -12,7 +12,7 @@ export default class SectionContent extends React.Component {
               <div className="inner">
                 <div className="grid">
                   {_.get(section, 'image', null) && (
-                  <div className="cell block-preview wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
+                  <div className="cell block-preview">
                     <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
                   </div>
                   )}
