@@ -58,7 +58,7 @@ export default class Body extends React.Component {
                   </main>
                   <Footer {...this.props} />
                   <div id="fb-root"></div>
-<div class="fb-customerchat" attribution="biz_inbox" page_id="121349286117840" data-lazy="true" greeting_dialog_display="icon"></div>
+                  <div class="fb-customerchat" attribution="biz_inbox" page_id="121349286117840" data-lazy="true" greeting_dialog_display="icon"></div>
                 </div>
             </React.Fragment>
         );
