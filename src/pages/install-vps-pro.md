@@ -41,6 +41,12 @@ sections:
           - Ngân hàng Vietcombank
         is_required: true
       - input_type: text
+        name: Tên trên thẻ ngân hàng *
+        label: Tên trên thẻ ngân hàng *
+        default_value: Tên trên thẻ ngân hàng
+        options: []
+        is_required: true
+      - input_type: text
         name: IP VPS *
         label: IP VPS *
         default_value: IP VPS
@@ -62,12 +68,6 @@ sections:
         name: Mật khẩu VPS *
         label: Mật khẩu VPS *
         default_value: Mật khẩu VPS
-        options: []
-        is_required: true
-      - input_type: text
-        name: Tên trên thẻ ngân hàng *
-        label: Tên trên thẻ ngân hàng *
-        default_value: Tên trên thẻ ngân hàng
         options: []
         is_required: true
     submit_label: Submit
