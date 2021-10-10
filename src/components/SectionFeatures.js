@@ -29,7 +29,7 @@ export default class SectionFeatures extends React.Component {
                       <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} />
                     </div>
                     )}
-                    <div className="cell block-content wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                    <div className="cell block-content">
                       <h3 className="block-title underline">{_.get(feature, 'title', null)}</h3>
                       <div className="block-copy">
                         {markdownify(_.get(feature, 'content', null))}
