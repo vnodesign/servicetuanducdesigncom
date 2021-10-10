@@ -11,7 +11,7 @@ export default class SectionCta extends React.Component {
             <section id={_.get(section, 'section_id', null)} className="block cta-block bg-accent outer">
               <div className="inner-large">
                 <div className="grid">
-                  <div className="cell block-content wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
+                  <div className="cell block-content">
                     {_.get(section, 'title', null) && (
                     <h2 className="block-title">{_.get(section, 'title', null)}</h2>
                     )}
