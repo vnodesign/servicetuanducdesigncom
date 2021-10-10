@@ -1,7 +1,7 @@
 ---
 title: Cài đặt WordPress miễn phí
 sections:
-  - section_id: install-website-free
+  - section_id: install-wordpress-free
     title: Cài đặt WordPress miễn phí
     image_alt: lorem-ipsum
     actions: []
