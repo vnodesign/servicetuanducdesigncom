@@ -8,7 +8,7 @@ sections:
     type: section_hero
   - section_id: install-vps-free-main
     background: gray
-    form_id: contacts
+    form_id: install-vps-free
     form_action: contacts
     hide_labels: false
     form_fields:
