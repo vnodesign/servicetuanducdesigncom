@@ -57,7 +57,7 @@ sections:
       - input_type: text
         name: Mật khẩu VPS *
         label: Mật khẩu VPS *
-        default_value: Mật khẩu
+        default_value: Mật khẩu VPS
         options: []
         is_required: true
     submit_label: Submit
