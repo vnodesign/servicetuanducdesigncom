@@ -1,7 +1,7 @@
 ---
 title: Cài đặt Website Basic
 sections:
-  - section_id: install-vps-basic
+  - section_id: install-website-basic
     title: Cài đặt Website Basic
     image_alt: lorem-ipsum
     actions: []
