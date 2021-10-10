@@ -23,7 +23,7 @@ export default class SectionPricing extends React.Component {
               <div className="inner">
                 <div className="grid">
                   {_.map(_.get(section, 'pricing_plans', null), (plan, plan_idx) => (
-                  <div key={plan_idx} className="cell plan">
+                  <div key={plan_idx} className="cell plan wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                     <div className={classNames('card', {'highlight': _.get(plan, 'highlight', null)})}>
                       <div className="plan-header">
                         {_.get(plan, 'title', null) && (
