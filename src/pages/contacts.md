@@ -34,7 +34,7 @@ sections:
       - input_type: textarea
         name: Nội dung *
         label: Nội dung *
-        default_value: Mật khẩu VPS
+        default_value: Nhập nội dung mà bạn muốn gửi cho chúng tôi vào đây
         options: []
         is_required: true
     submit_label: Submit
