@@ -53,6 +53,12 @@ sections:
         options: []
         is_required: true
       - input_type: number
+        name: Số tài khoản ngân hàng *
+        label: Số tài khoản ngân hàng *
+        default_value: Số tài khoản ngân hàng
+        options: []
+        is_required: true
+      - input_type: number
         name: PORT VPS (Nếu có)
         label: PORT VPS (Nếu có)
         default_value: Mặc định port login ssh là 22
@@ -68,12 +74,6 @@ sections:
         name: Mật khẩu VPS *
         label: Mật khẩu VPS *
         default_value: Mật khẩu VPS
-        options: []
-        is_required: true
-      - input_type: number
-        name: Số tài khoản ngân hàng *
-        label: Số tài khoản ngân hàng *
-        default_value: Số tài khoản ngân hàng
         options: []
         is_required: true
     submit_label: Submit
