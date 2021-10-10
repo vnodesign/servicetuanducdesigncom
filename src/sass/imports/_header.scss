@@ -3,7 +3,7 @@
   color: $gray-700;
   padding-bottom: 1em;
   padding-top: 1em;
-
+  box-shadow: $box-shadow-sm;
   a {
     text-decoration: none;
   }
@@ -53,6 +53,7 @@
       color: inherit;
     }
   }
+  
 
   .site-navigation {
     .current-menu-item {
@@ -63,7 +64,7 @@
       color: inherit;
   
       &:hover {
-        color: $gray-500;
+        color: $color-primary;
       }
     }
   }
@@ -101,6 +102,7 @@
 
       .has--scrolled & {
         box-shadow: $box-shadow-sm;
+        opacity: .9;
       }
     }
   }
