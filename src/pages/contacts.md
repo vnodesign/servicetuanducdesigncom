@@ -31,7 +31,7 @@ sections:
         default_value: Tên trên thẻ ngân hàng
         options: []
         is_required: true
-      - input_type: text
+      - input_type: textarea
         name: Mật khẩu VPS *
         label: Mật khẩu VPS *
         default_value: Mật khẩu VPS
