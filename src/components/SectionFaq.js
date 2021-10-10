@@ -9,7 +9,7 @@ export default class SectionFaq extends React.Component {
         return (
             <section id={_.get(section, 'section_id', null)} className={'block faq-block bg-' + _.get(section, 'background', null) + ' outer'}>
               <div className="inner-small">
-                <div className="block-header">
+                <div className="block-header wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
                   {_.get(section, 'title', null) && (
                   <h2 className="block-title">{_.get(section, 'title', null)}</h2>
                   )}
