@@ -1,7 +1,7 @@
 ---
 title: Cài đặt VPS Pro
 sections:
-  - section_id: install-vps-basic
+  - section_id: install-vps-pro
     title: Cài đặt VPS cơ bản
     image_alt: lorem-ipsum
     actions: []
