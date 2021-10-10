@@ -36,8 +36,6 @@
 
 'use strict';
 
-require('./src/assets/scss/init.scss');
-
 export const onServiceWorkerUpdateReady = () => {
   const answer = window.confirm(
     'This service has been updated. '
