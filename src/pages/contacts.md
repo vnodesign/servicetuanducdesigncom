@@ -32,7 +32,7 @@ sections:
         options: []
         is_required: true
       - input_type: textarea
-        name: Mật khẩu VPS *
+        name: Nội dung *
         label: Mật khẩu VPS *
         default_value: Mật khẩu VPS
         options: []
