@@ -43,7 +43,7 @@ sections:
         options: []
         is_required: true
       - input_type: number
-        name: lorem-ipsum
+        name: PORT
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
