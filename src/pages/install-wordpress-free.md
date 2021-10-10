@@ -55,7 +55,7 @@ sections:
         options: []
         is_required: true
       - input_type: text
-        name: Mật khẩu *
+        name: Mật khẩu  *
         label: Mật khẩu *
         default_value: Mật khẩu
         options: []
