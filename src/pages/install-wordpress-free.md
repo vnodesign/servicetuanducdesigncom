@@ -69,7 +69,7 @@ sections:
       - input_type: text
         name: Tên đăng nhập vào tên miền *
         label: Tên đăng nhập vào tên miền *
-        default_value: lorem-ipsum
+        default_value: Tên đăng nhập vào tên miền
         options: []
         is_required: false
     submit_label: Submit
