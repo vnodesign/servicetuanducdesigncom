@@ -2,7 +2,10 @@ const siteMetadata = require('./site-metadata.json')
 
 module.exports = {
     pathPrefix: '/',
-    siteMetadata: siteMetadata,
+    siteMetadata: {
+    siteMetadata,
+    siteUrl: `https://service.tuanducdesign.com`,
+        },
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
@@ -101,6 +104,9 @@ module.exports = {
             },
           },
         },
+        'gatsby-plugin-optimize-svgs',
+        'gatsby-plugin-robots-txt',
+        'gatsby-plugin-sitemap',
         {
             resolve: `@stackbit/gatsby-plugin-menus`,
             options: {
