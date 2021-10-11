@@ -1,8 +1,12 @@
+import loadable from '@loadable/component';
 import React from 'react';
 import _ from 'lodash';
 
 import {htmlToReact, getPages, Link, withPrefix} from '../utils';
-import BlogPostFooter from './BlogPostFooter';
+const BlogPostFooter = loadable(() =>
+  import(/* webpackPrefetch: true */ './BlogPostFooter')
+);
+//import BlogPostFooter from './BlogPostFooter';
 
 export default class SectionPosts extends React.Component {
     render() {

@@ -1,7 +1,10 @@
+import loadable from '@loadable/component';
 import React from 'react';
 import _ from 'lodash';
-
-import Action from './Action';
+const Action = loadable(() =>
+  import(/* webpackPrefetch: true */ './Action')
+);
+//import Action from './Action';
 
 export default class FooterNav extends React.Component {
     render() {

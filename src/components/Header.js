@@ -1,8 +1,12 @@
+import loadable from '@loadable/component';
 import React from 'react';
 import _ from 'lodash';
 
 import {Link, withPrefix, classNames} from '../utils';
-import Action from './Action';
+const Action = loadable(() =>
+  import(/* webpackPrefetch: true */ './Action')
+);
+//import Action from './Action';
 
 export default class Header extends React.Component {
     render() {

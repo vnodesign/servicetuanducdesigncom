@@ -1,8 +1,12 @@
+import loadable from '@loadable/component';
 import React from 'react';
 import _ from 'lodash';
 
 import {htmlToReact, markdownify} from '../utils';
-import FormField from './FormField';
+const FormField = loadable(() =>
+  import(/* webpackPrefetch: true */ './FormField')
+);
+//import FormField from './FormField';
 
 export default class SectionContact extends React.Component {
     render() {
