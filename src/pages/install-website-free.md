@@ -1,15 +1,15 @@
 ---
-title: Cài đặt VPS miễn phí
+title: Cài đặt Website miễn phí
 sections:
-  - section_id: install-vps-free
-    title: Cài đặt VPS miễn phí
+  - section_id: install-website-free
+    title: Cài đặt Website miễn phí
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-  - section_id: install-vps-free-main
+  - section_id: install-website-free-main
     background: gray
-    form_id: install-vps-free
-    form_action: install-vps-free
+    form_id: install-website-free
+    form_action: install-website-free
     hide_labels: false
     form_fields:
       - input_type: text

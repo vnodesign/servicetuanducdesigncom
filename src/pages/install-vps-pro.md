@@ -1,15 +1,15 @@
 ---
-title: Cài đặt VPS miễn phí
+title: Cài đặt VPS Pro
 sections:
-  - section_id: install-vps-free
-    title: Cài đặt VPS miễn phí
+  - section_id: install-vps-pro
+    title: Cài đặt VPS Pro
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-  - section_id: install-vps-free-main
+  - section_id: install-vps-pro-main
     background: gray
-    form_id: install-vps-free
-    form_action: install-vps-free
+    form_id: install-vps-pro
+    form_action: install-vps-pro
     hide_labels: false
     form_fields:
       - input_type: text
@@ -22,6 +22,34 @@ sections:
         name: Địa chỉ Email *
         label: Địa chỉ Email *
         default_value: Địa chỉ Email
+        options: []
+        is_required: true
+      - input_type: select
+        name: Bạn dùng thẻ ở ngân hàng nào? *
+        label: Bạn dùng thẻ ở ngân hàng nào? *
+        default_value: Lựa chọn ngân hàng
+        options:
+          - Ngân hàng VPBank
+          - Ngân hàng ACB
+          - Ngân hàng BIDV
+          - Ngân hàng Đông Á Bank
+          - Ngân hàng PVCombank
+          - Ngân hàng Sacombank
+          - Ngân hàng SHB
+          - Ngân hàng SeaBank
+          - Ngân hàng TP Bank
+          - Ngân hàng Vietcombank
+        is_required: true
+      - input_type: text
+        name: Tên trên thẻ ngân hàng *
+        label: Tên trên thẻ ngân hàng *
+        default_value: Tên trên thẻ ngân hàng
+        options: []
+        is_required: true
+      - input_type: number
+        name: Số tài khoản ngân hàng *
+        label: Số tài khoản ngân hàng *
+        default_value: Số tài khoản ngân hàng
         options: []
         is_required: true
       - input_type: number
