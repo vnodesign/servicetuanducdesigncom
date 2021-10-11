@@ -1,8 +1,12 @@
+import loadable from '@loadable/component';
 import React from 'react';
 import _ from 'lodash';
 
 import {htmlToReact, classNames, markdownify} from '../utils';
-import CtaButtons from './CtaButtons';
+const CtaButtons = loadable(() =>
+  import(/* webpackPrefetch: true */ './CtaButtons')
+);
+//import CtaButtons from './CtaButtons';
 
 export default class SectionPricing extends React.Component {
     render() {

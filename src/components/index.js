@@ -1,23 +1,81 @@
-import Action from './Action';
-import ActionLink from './ActionLink';
-import BlogPostFooter from './BlogPostFooter';
-import CtaButtons from './CtaButtons';
-import Footer from './Footer';
-import FooterForm from './FooterForm';
-import FooterNav from './FooterNav';
-import FooterText from './FooterText';
-import FormField from './FormField';
-import Header from './Header';
-import Icon from './Icon';
-import SectionContact from './SectionContact';
-import SectionContent from './SectionContent';
-import SectionCta from './SectionCta';
+import loadable from '@loadable/component';
+const Action = loadable(() =>
+  import(/* webpackPrefetch: true */ './Action')
+);
+//import Action from './Action';
+const ActionLink = loadable(() =>
+  import(/* webpackPrefetch: true */ './ActionLink')
+);
+//import ActionLink from './ActionLink';
+const BlogPostFooter = loadable(() =>
+  import(/* webpackPrefetch: true */ './BlogPostFooter')
+);
+//import BlogPostFooter from './BlogPostFooter';
+const CtaButtons = loadable(() =>
+  import(/* webpackPrefetch: true */ './CtaButtons')
+);
+//import CtaButtons from './CtaButtons';
+const Footer = loadable(() =>
+  import(/* webpackPrefetch: true */ './Footer')
+);
+//import Footer from './Footer';
+const FooterForm = loadable(() =>
+  import(/* webpackPrefetch: true */ './FooterForm')
+);
+//import FooterForm from './FooterForm';
+const FooterNav = loadable(() =>
+  import(/* webpackPrefetch: true */ './FooterNav')
+);
+//import FooterNav from './FooterNav';
+const FooterText = loadable(() =>
+  import(/* webpackPrefetch: true */ './FooterText')
+);
+//import FooterText from './FooterText';
+const FormField = loadable(() =>
+  import(/* webpackPrefetch: true */ './FormField')
+);
+//import FormField from './FormField';
+const Header = loadable(() =>
+  import(/* webpackPrefetch: true */ './Header')
+);
+//import Header from './Header';
+const Icon = loadable(() =>
+  import(/* webpackPrefetch: true */ './Icon')
+);
+//import Icon from './Icon';
+const SectionContact = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionContact')
+);
+//import SectionContact from './SectionContact';
+const SectionContent = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionContent')
+);
+//import SectionContent from './SectionContent';
+const SectionCta = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionCta')
+);
+//import SectionCta from './SectionCta';
 import SectionFaq from './SectionFaq';
-import SectionFeatures from './SectionFeatures';
-import SectionHero from './SectionHero';
-import SectionPosts from './SectionPosts';
-import SectionPricing from './SectionPricing';
-import SectionReviews from './SectionReviews';
+const SectionFeatures = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionFeatures')
+);
+//import SectionFeatures from './SectionFeatures';
+const SectionHero = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionHero')
+);
+//import SectionHero from './SectionHero';
+const SectionPosts = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionPosts')
+);
+//import SectionPosts from './SectionPosts';
+const SectionPricing = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionPricing')
+);
+//import SectionPricing from './SectionPricing';
+const SectionReviews = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionReviews')
+);
+//import SectionReviews from './SectionReviews';
 import Layout from './Layout';
 
 export {
