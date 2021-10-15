@@ -95,5 +95,9 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: Thông tin về gói cài đặt VPS Basic
+      keyName: property
+      relativeUrl: false
 template: landing
 ---
