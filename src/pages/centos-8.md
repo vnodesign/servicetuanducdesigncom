@@ -7,7 +7,10 @@ subtitle: >-
 image_alt: Cloud
 seo:
   title: ''
-  description: ''
+  description: >-
+    CentOS 8 là bản phân phối Linux có nguồn gốc từ Red Hat Enterprise Linux,
+    nhóm CentOS đã phải xây dựng cơ sở hạ tầng để hỗ trợ RHEL 8 mới được giới
+    thiệu.
   robots: []
   extra:
     - name: 'og:image'
