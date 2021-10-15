@@ -1,12 +1,8 @@
-import loadable from '@loadable/component';
 import React from 'react';
 import _ from 'lodash';
-
+import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import {withPrefix, markdownify} from '../utils';
-const CtaButtons = loadable(() =>
-  import(/* webpackPrefetch: true */ './CtaButtons')
-);
-//import CtaButtons from './CtaButtons';
+import CtaButtons from './CtaButtons';
 
 export default class SectionContent extends React.Component {
     render() {
@@ -17,7 +13,9 @@ export default class SectionContent extends React.Component {
                 <div className="grid">
                   {_.get(section, 'image', null) && (
                   <div className="cell block-preview">
-                    <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
+                  <LazyLoadComponent>
+                    <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} loading="lazy" decoding="async" />
+                  </LazyLoadComponent>
                   </div>
                   )}
                   <div className="cell block-content">

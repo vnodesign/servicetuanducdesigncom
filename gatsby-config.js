@@ -23,10 +23,8 @@ module.exports = {
                     maxWidth: 1200,
                     withWebp: true,
                     quality: 80,
-                    loading: 'lazy',
-                    decoding: 'async',
                   },
-                },
+                }
               ],
             },
           },
@@ -66,15 +64,6 @@ module.exports = {
           },
         },
         {
-            resolve: `gatsby-plugin-nprogress`,
-            options: {
-              // Setting a color is optional.
-              color: `tomato`,
-              // Disable the loading spinner.
-              showSpinner: true,
-            },
-          },
-        {
           resolve: 'gatsby-plugin-offline',
           options: {
             workboxConfig: {
@@ -102,6 +91,12 @@ module.exports = {
               },
               ],
             },
+          },
+        },
+        {
+          resolve: `gatsby-plugin-google-adsense`,
+          options: {
+            publisherId: `ca-pub-4183134625750063`
           },
         },
         'gatsby-plugin-optimize-svgs',
