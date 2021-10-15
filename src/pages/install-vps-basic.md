@@ -13,7 +13,7 @@ sections:
     hide_labels: false
     form_fields:
       - input_type: text
-        name: Họ và tên *
+        name: first_lastnameHọ và tên *
         label: first_lastname
         default_value: Họ và tên
         options: []
