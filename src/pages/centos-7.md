@@ -7,7 +7,10 @@ subtitle: >-
 image_alt: Cloud
 seo:
   title: CentOS 7 - Tuan Duc Design
-  description: ''
+  description: >-
+    CentOS (Community enterprise Operating System), là bản phân phối hệ điều
+    hành dựa trên hạt nhân Linux . Được ra mắt lần đầu tiên vào tháng 5 năm
+    2004.
   robots: []
   extra: []
 template: page
