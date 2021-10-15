@@ -99,5 +99,9 @@ seo:
       value: Thông tin về gói cài đặt VPS Basic
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Thông tin về gói cài đặt VPS Basic
+      keyName: name
+      relativeUrl: false
 template: landing
 ---
