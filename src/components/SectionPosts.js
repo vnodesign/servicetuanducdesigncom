@@ -28,7 +28,7 @@ export default class SectionPosts extends React.Component {
                     <div className="card">
                       {_.get(post, 'frontmatter.thumb_image', null) && (
                       <Link className="post-thumbnail" to={withPrefix(_.get(post, 'url', null))}>
-                        <img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} />
+                        <img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} loading="lazy" decoding="async" />
                       </Link>
                       )}
                       <div className="post-body">

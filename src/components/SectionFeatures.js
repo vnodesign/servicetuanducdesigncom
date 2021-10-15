@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-
+import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import {htmlToReact, withPrefix, markdownify} from '../utils';
 import CtaButtons from './CtaButtons';
 
@@ -26,7 +26,9 @@ export default class SectionFeatures extends React.Component {
                   <div className="grid">
                     {_.get(feature, 'image', null) && (
                     <div className="cell block-preview">
-                      <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} />
+                      <LazyLoadComponent>
+                      <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} loading="lazy" decoding="async" />
+                      </LazyLoadComponent>
                     </div>
                     )}
                     <div className="cell block-content">

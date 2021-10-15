@@ -1,29 +1,42 @@
+import loadable from '@loadable/component';
 import Action from './Action';
 import ActionLink from './ActionLink';
-import BlogPostFooter from './BlogPostFooter';
+//import BlogPostFooter from './BlogPostFooter';
 import CtaButtons from './CtaButtons';
-import Footer from './Footer';
+const Footer = loadable(() =>
+  import(/* webpackPrefetch: true */ './Footer')
+);
+//import Footer from './Footer';
 import FooterForm from './FooterForm';
 import FooterNav from './FooterNav';
-import FooterText from './FooterText';
+const FooterText = loadable(() =>
+  import(/* webpackPrefetch: true */ './FooterText')
+);
+//import FooterText from './FooterText';
 import FormField from './FormField';
 import Header from './Header';
 import Icon from './Icon';
 import SectionContact from './SectionContact';
-import SectionContent from './SectionContent';
+const SectionContent = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionContent')
+);
+//import SectionContent from './SectionContent';
 import SectionCta from './SectionCta';
 import SectionFaq from './SectionFaq';
-import SectionFeatures from './SectionFeatures';
+const SectionFeatures = loadable(() =>
+  import(/* webpackPrefetch: true */ './SectionFeatures')
+);
+//import SectionFeatures from './SectionFeatures';
 import SectionHero from './SectionHero';
-import SectionPosts from './SectionPosts';
+//import SectionPosts from './SectionPosts';
 import SectionPricing from './SectionPricing';
-import SectionReviews from './SectionReviews';
+//import SectionReviews from './SectionReviews';
 import Layout from './Layout';
 
 export {
     Action,
     ActionLink,
-    BlogPostFooter,
+    //BlogPostFooter,
     CtaButtons,
     Footer,
     FooterForm,
@@ -38,16 +51,16 @@ export {
     SectionFaq,
     SectionFeatures,
     SectionHero,
-    SectionPosts,
+    //SectionPosts,
     SectionPricing,
-    SectionReviews,
+    //SectionReviews,
     Layout
 };
 
 export default {
     Action,
     ActionLink,
-    BlogPostFooter,
+    //BlogPostFooter,
     CtaButtons,
     Footer,
     FooterForm,
@@ -62,8 +75,8 @@ export default {
     SectionFaq,
     SectionFeatures,
     SectionHero,
-    SectionPosts,
+    //SectionPosts,
     SectionPricing,
-    SectionReviews,
+    //SectionReviews,
     Layout
 };

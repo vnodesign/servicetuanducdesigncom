@@ -1,11 +1,15 @@
 import React from 'react';
 import {Helmet} from 'react-helmet';
 import _ from 'lodash';
-
+import loadable from '@loadable/component';
+import { FacebookProvider, CustomChat } from 'react-facebook';
 import {withPrefix, attribute} from '../utils';
 import '../sass/main.scss';
 import Header from './Header';
-import Footer from './Footer';
+const Footer = loadable(() =>
+  import(/* webpackPrefetch: true */ './Footer')
+);
+//import Footer from './Footer';
 
 export default class Body extends React.Component {
     render() {
@@ -48,7 +52,6 @@ export default class Body extends React.Component {
                     {_.get(this.props, 'pageContext.site.siteMetadata.favicon', null) && (
                     <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
                     )}
-                    <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4183134625750063" async defer></script>
                     <body className={'palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
                 </Helmet>
                 <div id="page" className="site">
@@ -57,6 +60,9 @@ export default class Body extends React.Component {
                     {this.props.children}
                   </main>
                   <Footer {...this.props} />
+                  <FacebookProvider appId="294587991860787" chatSupport>
+                    <CustomChat pageId="121349286117840" minimized={true}/>
+                  </FacebookProvider>
                 </div>
             </React.Fragment>
         );
