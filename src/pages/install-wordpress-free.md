@@ -13,62 +13,62 @@ sections:
     hide_labels: false
     form_fields:
       - input_type: text
-        name: first_lastname
-        label: Họ và tên *
+        name: Họ và tên *
+        label: first_lastname
         default_value: Họ và tên
         options: []
         is_required: true
       - input_type: email
-        name: email_address
-        label: Địa chỉ Email *
+        name: Địa chỉ Email *
+        label: email_address
         default_value: Địa chỉ Email
         options: []
         is_required: true
       - input_type: text
-        name: username_adminwp
-        label: Tên đăng nhập Admin WordPress *
+        name: Tên đăng nhập Admin WordPress *
+        label: username_adminwp
         default_value: Tên đăng nhập Admin WordPress
         options: []
         is_required: true
       - input_type: password
-        name: password_adminwp
-        label: Mật khẩu đăng nhập Admin WordPress *
+        name: Mật khẩu đăng nhập Admin WordPress *
+        label: password_adminwp
         default_value: Mật khẩu đăng nhập Admin WordPress
         options: []
         is_required: false
       - input_type: text
-        name: ip_vps
-        label: IP VPS *
+        name: IP VPS *
+        label: ip_vps
         default_value: IP VPS
         options: []
         is_required: true
       - input_type: number
-        name: port_vps
-        label: PORT VPS (Nếu có)
-        default_value: Mặc định port login SSH là 22
+        name: PORT VPS (Nếu có)
+        label: port_vps
+        default_value: Mặc định port login ssh là 22
         options: []
         is_required: false
       - input_type: text
-        name: username_vps
-        label: Tên đăng nhập VPS *
+        name: Tên đăng nhập VPS *
+        label: username_vps
         default_value: Tên đăng nhập VPS
         options: []
         is_required: true
       - input_type: password
-        name: password_vps
-        label: Mật khẩu VPS *
+        name: Mật khẩu VPS *
+        label: password_vps
         default_value: Mật khẩu VPS
         options: []
         is_required: true
       - input_type: text
-        name: domain_nameregistrar
-        label: Nhà đăng ký tên miền *
+        name: Nhà đăng ký tên miền *
+        label: domain_nameregistrar
         default_value: Nhà đăng ký tên miền
         options: []
         is_required: true
       - input_type: text
-        name: username_domain
-        label: Tên đăng nhập vào tên miền *
+        name: Tên đăng nhập vào tên miền *
+        label: username_domain
         default_value: Tên đăng nhập vào tên miền
         options: []
         is_required: true
