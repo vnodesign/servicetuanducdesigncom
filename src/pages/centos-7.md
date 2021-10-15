@@ -21,6 +21,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
 template: page
 image: images/cloud-post.png
 ---
