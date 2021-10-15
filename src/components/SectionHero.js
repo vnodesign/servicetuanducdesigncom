@@ -1,6 +1,5 @@
 import React from 'react';
 import _ from 'lodash';
-import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import {withPrefix, markdownify} from '../utils';
 import CtaButtons from './CtaButtons';
 
