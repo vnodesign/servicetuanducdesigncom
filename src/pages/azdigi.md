@@ -17,6 +17,12 @@ seo:
       value: AZDIGI - Tuan Duc Design
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Dịch vụ Web Hosting cao cấp mạnh mẽ nhất dành cho doanh nghiệp và
+        website thương mại điện tử.
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/azdigi.jpg
 ---
