@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 template: page
-image: images/HocVPS-Script-v2.0.png
+image: images/hocvps-script-v2.0.png
 ---
 Không như những Control Panel khác, HocVPS Script không chạy ngầm bất kì service nào nên không hề tiêu thụ tài nguyên VPS khi không sử dụng.
 
