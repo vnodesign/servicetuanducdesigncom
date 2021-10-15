@@ -29,7 +29,7 @@ export default class SectionHero extends React.Component {
                                     </div>
                                     )}
                                     <div className="block-copy">
-                                    {markdownify(_.get(section, 'content', null))}
+                                    {   markdownify(_.get(section, 'content', null))}
                                     </div>
                                     {_.get(section, 'actions', null) && (
                                     <div className="block-buttons">
