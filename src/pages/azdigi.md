@@ -8,7 +8,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/azdigi.jpg
+      keyName: property
+      relativeUrl: true
 template: page
 image: images/azdigi.jpg
 ---
