@@ -13,6 +13,10 @@ seo:
       value: images/azdigi.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: AZDIGI - Tuan Duc Design
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/azdigi.jpg
 ---
