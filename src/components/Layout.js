@@ -1,15 +1,11 @@
 import React from 'react';
 import {Helmet} from 'react-helmet';
 import _ from 'lodash';
-import loadable from '@loadable/component';
 import { FacebookProvider, CustomChat } from 'react-facebook';
 import {withPrefix, attribute} from '../utils';
 import '../sass/main.scss';
 import Header from './Header';
-const Footer = loadable(() =>
-  import(/* webpackPrefetch: true */ './Footer')
-);
-//import Footer from './Footer';
+import Footer from './Footer';
 
 export default class Body extends React.Component {
     render() {
