@@ -13,7 +13,6 @@ export default class SectionHero extends React.Component {
                 <div className="grid">
                   {_.get(section, 'image', null) && (
                   <div className="cell block-preview">
-                  <LazyLoadComponent>
                     <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} loading="lazy" decoding="async" />
                   </div>
                   )}
