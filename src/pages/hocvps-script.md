@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 template: page
-image: images/HocVPS-Script-v2.0.png
+image: images/hocvps-script-v2.0.png
 ---
 Không như những Control Panel khác, HocVPS Script không chạy ngầm bất kì service nào nên không hề tiêu thụ tài nguyên VPS khi không sử dụng.
 
@@ -30,11 +30,11 @@ Không như những Control Panel khác, HocVPS Script không chạy ngầm bấ
 
 *   Lựa chọn cài đặt và cập nhật các phiên bản Mariadb mới trong quá trình setup
 
-*   PHP phiên bản mới nhất tùy chọn: PHP 8.0, PHP7.4, PHP 7.3, PHP 7.2, PHP 7.1, PHP 7.0, PHP 5.6; đi kèm [Zend OPcache](https://www.php.net/manual/en/book.opcache.php) giúp PHP hoạt động nhanh nhất
+*   PHP phiên bản mới nhất tùy chọn: PHP 8.0, PHP7.4, PHP 7.3, PHP 7.2, PHP 7.1, PHP 7.0, PHP 5.6; đi kèm [Zend OPcache](https://www.php.net/manual/en/book.opcache.php) giúp PHP hoạt động nhanh nhất
 
-*   [phpMyAdmin](https://www.phpmyadmin.net/) mới nhất
+*   [phpMyAdmin](https://www.phpmyadmin.net/) mới nhất
 
-*   [eXtplorer](https://extplorer.net/) mới nhất để quản lý File Manager, có thể tạo user, phân quyền riêng biệt
+*   [eXtplorer](https://extplorer.net/) mới nhất để quản lý File Manager, có thể tạo user, phân quyền riêng biệt
 
 *   Tùy chọn cài đặt Firewall sử dụng CSF
 
@@ -44,7 +44,7 @@ Không như những Control Panel khác, HocVPS Script không chạy ngầm bấ
 
 **Những tính năng đặc biệt:**
 
-1.  Thông tin cài đặt đơn giản, chỉ cần lựa chọn phiên bản PHP, tên miền chính và port admin là đủ.
+1.  Thông tin cài đặt đơn giản, chỉ cần lựa chọn phiên bản PHP, tên miền chính và port admin là đủ.
 
 2.  Sử dụng Nginx repo thay vì compile từ source như những script khác giúp việc cài đặt Nginx nhanh hơn, sau này có nâng cấp cũng dễ dàng hơn rất nhiều.
 
@@ -56,7 +56,7 @@ Không như những Control Panel khác, HocVPS Script không chạy ngầm bấ
 
 6.  Tùy chọn sử dụng cài đặt phiên bản PHP mới nhất như: PHP8.0, PH7.4, PHP 7.3, PHP 7.2, PHP 7.1, PHP 7.0, PHP 5.6.
 
-7.  Có trình quản lý File Manager eXtplorer trực tiếp ngay trên web.
+7.  Có trình quản lý File Manager eXtplorer trực tiếp ngay trên web.
 
 8.  Tự động cài đặt module Zend Opcache và có thể theo dõi status ngay trên web.
 
@@ -66,11 +66,11 @@ Không như những Control Panel khác, HocVPS Script không chạy ngầm bấ
 
 11. Theo dõi tình trạng server ngay trên web, có thể sử dụng mobile truy cập mọi nơi.
 
-12. Thay đổi port SSH mặc định từ 22 sang 2222 giúp hạn chế SSH Brute Force Attack, kèm theo Fail2ban block IP ngay nếu phát hiện login sai 3 lần (áp dụng cả SSH và HocVPS Script Admin).
+12. Thay đổi port SSH mặc định từ 22 sang 2222 giúp hạn chế SSH Brute Force Attack, kèm theo Fail2ban block IP ngay nếu phát hiện login sai 3 lần (áp dụng cả SSH và HocVPS Script Admin).
 
-13. Toàn bộ thông tin quản lý sẽ được lưu trong file text ở /root/hocvps-script.txt
+13. Toàn bộ thông tin quản lý sẽ được lưu trong file text ở /root/hocvps-script.txt
 
-14. Tham khảo thêm tính năng mới trong [Changelog](https://hocvps.com/changelog/).
+14. Tham khảo thêm tính năng mới trong [Changelog](https://hocvps.com/changelog/).
 
 15. Tùy chọn cài đặt Firewall sử dụng CSF
 
