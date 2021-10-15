@@ -1,14 +1,11 @@
-import loadable from '@loadable/component';
 import React from 'react';
 import {Helmet} from 'react-helmet';
 import _ from 'lodash';
-
+import loadable from '@loadable/component';
+import { FacebookProvider, CustomChat } from 'react-facebook';
 import {withPrefix, attribute} from '../utils';
 import '../sass/main.scss';
-const Header = loadable(() =>
-  import(/* webpackPrefetch: true */ './Header')
-);
-//import Header from './Header';
+import Header from './Header';
 const Footer = loadable(() =>
   import(/* webpackPrefetch: true */ './Footer')
 );
@@ -63,6 +60,9 @@ export default class Body extends React.Component {
                     {this.props.children}
                   </main>
                   <Footer {...this.props} />
+                  <FacebookProvider appId="294587991860787" chatSupport>
+                    <CustomChat pageId="121349286117840" minimized={true}/>
+                  </FacebookProvider>
                 </div>
             </React.Fragment>
         );

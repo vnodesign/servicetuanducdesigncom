@@ -1,12 +1,8 @@
-import loadable from '@loadable/component';
 import React from 'react';
 import _ from 'lodash';
 
 import components from './index';
-const ActionLink = loadable(() =>
-  import(/* webpackPrefetch: true */ './ActionLink')
-);
-//import ActionLink from './ActionLink';
+import ActionLink from './ActionLink';
 import {htmlToReact} from '../utils';
 
 export default class Footer extends React.Component {

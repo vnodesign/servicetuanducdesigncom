@@ -1,12 +1,8 @@
-import loadable from '@loadable/component';
 import React from 'react';
 import _ from 'lodash';
 
 import {htmlToReact} from '../utils';
-const CtaButtons = loadable(() =>
-  import(/* webpackPrefetch: true */ './CtaButtons')
-);
-//import CtaButtons from './CtaButtons';
+import CtaButtons from './CtaButtons';
 
 export default class SectionCta extends React.Component {
     render() {
