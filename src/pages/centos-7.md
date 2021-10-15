@@ -17,6 +17,10 @@ seo:
       value: images/centos-7-post.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/cloud-post.png
 ---
