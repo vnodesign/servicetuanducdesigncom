@@ -33,7 +33,7 @@ export default class SectionHero extends React.Component {
                         </div>
                         </div>
                     </div>
-            </div>
+                </div>
             </div>
             </section>
         );
