@@ -22,7 +22,7 @@ export default class SectionHero extends React.Component {
                             </div>
                             )}
                             <div className="cell">
-                                <div className="cell block-content">
+                                <div className="block-content">
                                 {_.get(section, 'title', null) && (
                                 <h2 className="block-title underline">{_.get(section, 'title', null)}</h2>
                                 )}
