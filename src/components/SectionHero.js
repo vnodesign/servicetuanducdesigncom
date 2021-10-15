@@ -34,6 +34,7 @@ export default class SectionHero extends React.Component {
                                 <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
                                 </div>
                                 )}
+                                </div>
                             </div>
                             </div>
                         </div>
