@@ -9,7 +9,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/centos-7-post.jpg
+      keyName: property
+      relativeUrl: true
 template: page
 image: images/cloud-post.png
 ---
