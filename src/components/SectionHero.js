@@ -15,7 +15,8 @@ export default class SectionHero extends React.Component {
                         <div className="inner">
                             <div className="grid">
                             {_.get(section, 'image', null) && (
-                            <div className="cell block-preview">
+                            <div className="cell">
+                                <div className="block-preview">
                                 <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
                             </div>
                             )}
