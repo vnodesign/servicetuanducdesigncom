@@ -25,7 +25,7 @@ export default class SectionHero extends React.Component {
                                 <div className="block-content">
                                     {_.get(section, 'title', null) && (
                                     <div className="block-title">
-                                    <h2 className="underline">{_.get(section, 'title', null)}</h2>
+                                        <h2 className="underline">{_.get(section, 'title', null)}</h2>
                                     </div>
                                     )}
                                     <div className="block-copy">
