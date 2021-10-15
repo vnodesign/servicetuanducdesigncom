@@ -14,6 +14,10 @@ seo:
       value: images/centos-7-post.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: CentOS 8 - Tuan Duc Design
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/cloud-post.png
 ---
