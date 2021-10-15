@@ -23,6 +23,10 @@ seo:
         website thương mại điện tử.
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/azdigi.jpg
 ---
