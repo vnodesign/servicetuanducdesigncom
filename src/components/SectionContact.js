@@ -3,7 +3,6 @@ import _ from 'lodash';
 import {htmlToReact, markdownify} from '../utils';
 import FormField from './FormField';
 import '../sass/recaptcha.scss';
-import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import ReCAPTCHA from "react-google-recaptcha";
 export default class SectionContact extends React.Component {
     constructor(props) {
@@ -41,11 +40,9 @@ export default class SectionContact extends React.Component {
                     <FormField {...this.props} field={field} section={section} />
                   </div>
                   ))}
-                  <LazyLoadComponent>
                   <div className="form-row">
                     <ReCAPTCHA sitekey="6LfmZc0cAAAAAMVRiGzFENjRbnaqwdXT4WzrH6e0" />
                   </div>
-                  </LazyLoadComponent>
                   <div className="form-row form-submit">
                     {status === "SUCCESS" ? <p>Your information has been sent, do not forget to check your email to see if there is a message from us!</p> : <button type="submit" className="button">{_.get(section, 'submit_label', null)}</button>}
                     {status === "ERROR" && <p>Sorry! The system is busy, please come back later.</p>}
