@@ -79,7 +79,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: ''
+  title: Cài đặt VPS Basic - Tuan Duc Service
   description: ''
   robots: []
   extra: []
