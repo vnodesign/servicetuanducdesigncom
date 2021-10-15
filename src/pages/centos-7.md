@@ -6,7 +6,7 @@ subtitle: >-
   năm 2004.
 image_alt: Cloud
 seo:
-  title: ''
+  title: CentOS 7 - Tuan Duc Design
   description: ''
   robots: []
   extra: []
