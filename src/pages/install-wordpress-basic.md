@@ -13,20 +13,20 @@ sections:
     hide_labels: false
     form_fields:
       - input_type: text
-        name: first_lastname
-        label: Họ và tên *
+        name: Họ và tên *
+        label: first_lastname
         default_value: Họ và tên
         options: []
         is_required: true
       - input_type: email
-        name: email_address
-        label: Địa chỉ Email *
+        name: Địa chỉ Email *
+        label: email_address
         default_value: Địa chỉ Email
         options: []
         is_required: true
       - input_type: select
-        name: bank_card
-        label: Bạn dùng thẻ ở ngân hàng nào? *
+        name: Bạn dùng thẻ ở ngân hàng nào? *
+        label: bank_card
         default_value: Lựa chọn ngân hàng
         options:
           - Ngân hàng VPBank
@@ -41,38 +41,38 @@ sections:
           - Ngân hàng Vietcombank
         is_required: true
       - input_type: text
-        name: bank_cardname
-        label: Tên trên thẻ ngân hàng *
+        name: Tên trên thẻ ngân hàng *
+        label: bank_cardname
         default_value: Tên trên thẻ ngân hàng
         options: []
         is_required: true
       - input_type: number
-        name: bank_cardnumber
-        label: Số tài khoản ngân hàng *
+        name: Số tài khoản ngân hàng *
+        label: bank_cardnumber
         default_value: Số tài khoản ngân hàng
         options: []
         is_required: true
       - input_type: text
-        name: ip_vps
-        label: IP VPS *
+        name: IP VPS *
+        label: ip_vps
         default_value: IP VPS
         options: []
         is_required: true
       - input_type: number
-        name: port_vps
-        label: PORT VPS (Nếu có)
+        name: PORT VPS (Nếu có)
+        label: port_vps
         default_value: Mặc định port login ssh là 22
         options: []
         is_required: false
       - input_type: text
-        name: username_vps
-        label: Tên đăng nhập VPS *
+        name: Tên đăng nhập VPS *
+        label: username_vps
         default_value: Tên đăng nhập VPS
         options: []
         is_required: true
       - input_type: password
-        name: password_vps
-        label: Mật khẩu VPS *
+        name: Mật khẩu VPS *
+        label: password_vps
         default_value: Mật khẩu VPS
         options: []
         is_required: true
