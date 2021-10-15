@@ -9,7 +9,7 @@ export default class SectionHero extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section id={_.get(section, 'section_id', null)} className="block">
-            <div className="hero-block bg-accent outer">
+            <div className="hero-block">
               <div className="inner">
                 <div className="grid">
                   {_.get(section, 'image', null) && (
