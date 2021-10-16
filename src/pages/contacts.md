@@ -26,7 +26,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: Nội dung *
-        label: content
+        label: Nội dung *content
         default_value: Nhập nội dung mà bạn muốn gửi cho chúng tôi vào đây
         options: []
         is_required: true
