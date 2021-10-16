@@ -7,7 +7,9 @@ subtitle: >-
 image_alt: Vultr
 seo:
   title: INET - Tuan Duc Design
-  description: ''
+  description: >-
+    iNET.vn - Nhà đăng ký tên miền hỗ trợ khách hàng tốt nhất. Chuyên cung cấp,
+    mua bán Tên Miền, Hosting, Cloud VPS và Email doanh nghiệp.
   robots: []
   extra:
     - name: 'og:image'
