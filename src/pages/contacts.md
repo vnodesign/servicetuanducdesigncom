@@ -36,6 +36,10 @@ seo:
   title: Liên hệ - Tuan Duc Design
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg
+      keyName: property
+      relativeUrl: true
 template: landing
 ---
