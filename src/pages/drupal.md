@@ -5,7 +5,7 @@ subtitle: >-
   dung miễn phí và mã nguồn mở.
 image_alt: Drupal
 seo:
-  title: ''
+  title: Drupal - Tuan Duc Design
   description: ''
   robots: []
   extra:
