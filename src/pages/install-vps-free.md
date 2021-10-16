@@ -26,7 +26,7 @@ sections:
         is_required: true
       - input_type: number
         name: IP VPS *
-        label: IP VPS *ip_vps
+        label: IP VPS *
         default_value: IP VPS
         options: []
         is_required: true
