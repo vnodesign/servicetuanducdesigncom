@@ -19,7 +19,7 @@ sections:
         options: []
         is_required: true
       - input_type: email
-        name: Địa chỉ Email *
+        name: email_address
         label: Địa chỉ Email *
         default_value: Địa chỉ Email
         options: []
