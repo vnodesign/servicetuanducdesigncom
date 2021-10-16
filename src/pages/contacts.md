@@ -33,7 +33,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: ''
+  title: Liên hệ
   description: ''
   robots: []
   extra: []
