@@ -16,6 +16,10 @@ seo:
       value: images/inet.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/inet.jpg
 ---
