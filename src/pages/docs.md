@@ -65,7 +65,7 @@ sections:
     type: section_features
 seo:
   title: Tài liệu sử dụng VPS và Bash Script - Tuan Duc Design
-  description: ''
+  description: Tài liệu hướng dẫn sử dụng VPS và Bash Script dành cho người mới sử dụng VPS
   robots: []
   extra:
     - name: 'og:image'
