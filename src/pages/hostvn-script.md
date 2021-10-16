@@ -8,7 +8,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: HOSTVN Script - Tuan Duc Design
+      keyName: property
+      relativeUrl: true
 template: page
 image: images/hostvn.png
 ---
