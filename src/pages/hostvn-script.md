@@ -14,7 +14,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:title'
-      value: 'HOSTVN Script '
+      value: HOSTVN Script - Tuan Duc Design
       keyName: property
       relativeUrl: false
 template: page
