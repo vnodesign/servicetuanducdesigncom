@@ -6,7 +6,7 @@ subtitle: >-
   nghệ thông tin chất lượng cao.
 image_alt: Vultr
 seo:
-  title: ''
+  title: INET - Tuan Duc Design
   description: ''
   robots: []
   extra:
