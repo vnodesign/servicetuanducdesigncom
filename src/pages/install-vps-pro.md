@@ -80,7 +80,7 @@ sections:
     type: section_contact
 seo:
   title: Cài đặt VPS Pro - Tuan Duc Design
-  description: ''
+  description: Thông tin về gói cài đặt VPS Pro
   robots: []
   extra: []
 template: landing
