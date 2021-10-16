@@ -52,7 +52,7 @@ sections:
     type: section_contact
 seo:
   title: Cài đặt VPS miễn phí - Tuan Duc Design
-  description: ''
+  description: Thông tin về gói cài đặt VPS miễn phí
   robots: []
   extra:
     - name: 'og:image'
