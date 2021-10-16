@@ -23,7 +23,7 @@ sections:
     type: section_faq
 seo:
   title: FAQ - Tuan Duc Design
-  description: ''
+  description: Các câu hỏi thường gặp khi sử dụng dịch vụ của Tuan Duc Design
   robots: []
   extra:
     - name: 'og:image'
