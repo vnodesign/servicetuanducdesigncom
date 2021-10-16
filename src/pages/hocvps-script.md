@@ -8,7 +8,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/hocvps-script-v2.0.png
+      keyName: property
+      relativeUrl: true
 template: page
 image: images/hocvps-script-v2.0.png
 ---
