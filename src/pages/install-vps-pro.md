@@ -47,7 +47,7 @@ sections:
         options: []
         is_required: true
       - input_type: number
-        name: Số tài khoản ngân hàng *
+        name: bank_cardnumber
         label: Số tài khoản ngân hàng *
         default_value: Số tài khoản ngân hàng
         options: []
