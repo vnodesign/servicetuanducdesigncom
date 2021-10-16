@@ -6,7 +6,9 @@ subtitle: >-
 image_alt: Drupal
 seo:
   title: Drupal - Tuan Duc Design
-  description: ''
+  description: >-
+    Drupal là một khung sườn phát triển phần mềm hướng mô-đun, một hệ quản trị
+    nội dung miễn phí và mã nguồn mở.
   robots: []
   extra:
     - name: 'og:image'
