@@ -9,7 +9,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/inet.jpg
+      keyName: property
+      relativeUrl: true
 template: page
 image: images/inet.jpg
 ---
