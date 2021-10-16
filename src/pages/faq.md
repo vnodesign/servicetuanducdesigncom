@@ -22,7 +22,7 @@ sections:
         answer: "Bạn chỉ cần đăng ký một lần là lần sau không cần phải đóng thêm\_**phí để duy trì các dịch vụ**\_bạn đã mua mà chúng tôi cung cấp nữa.\n"
     type: section_faq
 seo:
-  title: ''
+  title: FAQ - Tuan Duc Design
   description: ''
   robots: []
   extra:
