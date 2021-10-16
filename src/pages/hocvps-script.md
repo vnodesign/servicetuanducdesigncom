@@ -5,7 +5,7 @@ subtitle: >-
   thành phần cần thiết nhất cho VPS với một dòng lệnh duy nhất.
 image_alt: HocVPS Script
 seo:
-  title: ''
+  title: HocVPS Script - Tuan Duc Design
   description: ''
   robots: []
   extra:
