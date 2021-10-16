@@ -13,6 +13,10 @@ seo:
       value: HOSTVN Script - Tuan Duc Design
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: 'HOSTVN Script '
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/hostvn.png
 ---
