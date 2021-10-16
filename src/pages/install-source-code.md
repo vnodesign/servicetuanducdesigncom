@@ -81,7 +81,9 @@ sections:
     type: section_features
 seo:
   title: Hỗ trợ cài đặt mã nguồn - Tuan Duc Design
-  description: ''
+  description: >-
+    Những mã nguồn phổ biến trên thế giới như WordPress, Joomla, Drupal,
+    Xenforo, Laravel, Codeigniter.
   robots: []
   extra:
     - name: 'og:image'
