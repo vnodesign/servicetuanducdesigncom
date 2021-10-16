@@ -15,6 +15,10 @@ seo:
       value: images/hocvps-script-v2.0.png
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/hocvps-script-v2.0.png
 ---
