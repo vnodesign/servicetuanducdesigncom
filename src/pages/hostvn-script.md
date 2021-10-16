@@ -5,7 +5,7 @@ subtitle: >-
   thành phần cần thiết nhất cho VPS với một dòng lệnh duy nhất.
 image_alt: HOSTVN Script
 seo:
-  title: ''
+  title: HOSTVN Script - Tuan Duc Design
   description: ''
   robots: []
   extra:
