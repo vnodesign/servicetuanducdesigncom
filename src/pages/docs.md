@@ -64,7 +64,7 @@ sections:
         image: images/larvps-script.png
     type: section_features
 seo:
-  title: ''
+  title: Tài liệu sử dụng VPS và Bash Script - Tuan Duc Design
   description: ''
   robots: []
   extra:
