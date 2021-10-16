@@ -80,7 +80,7 @@ sections:
         image: images/laravel.jpg
     type: section_features
 seo:
-  title: ''
+  title: Hỗ trợ cài đặt mã nguồn - Tuan Duc Design
   description: ''
   robots: []
   extra:
