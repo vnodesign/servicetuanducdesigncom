@@ -9,10 +9,6 @@ seo:
   description: ''
   robots: []
   extra:
-    - name: 'og:image'
-      value: HOSTVN Script - Tuan Duc Design
-      keyName: property
-      relativeUrl: true
     - name: 'og:title'
       value: HOSTVN Script - Tuan Duc Design
       keyName: property
