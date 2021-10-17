@@ -48,6 +48,12 @@ sections:
         default_value: Tên đăng nhập vào tên miền
         options: []
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Submit
     type: section_contact
 seo:
