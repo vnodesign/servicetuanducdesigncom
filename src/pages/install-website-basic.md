@@ -26,7 +26,7 @@ sections:
         is_required: true
       - input_type: select
         name: Bạn dùng thẻ ở ngân hàng nào? *
-        label: bank_card
+        label: Bạn dùng thẻ ở ngân hàng nào? *bank_card
         default_value: Lựa chọn ngân hàng
         options:
           - Ngân hàng VPBank
