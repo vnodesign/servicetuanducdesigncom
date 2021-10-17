@@ -31,7 +31,7 @@ sections:
         options: []
         is_required: true
       - input_type: password
-        name: Mật khẩu đăng nhập Admin WordPress *
+        name: password_adminwp
         label: Mật khẩu đăng nhập Admin WordPress *
         default_value: Mật khẩu đăng nhập Admin WordPress
         options: []
