@@ -48,7 +48,7 @@ sections:
           - Ngân hàng PVComBank
           - Ngân hàng Sacombank
           - Ngân hàng SHB
-          - lorem-ipsum
+          - Ngân hàng Seabank
           - lorem-ipsum
           - lorem-ipsum
         is_required: true
