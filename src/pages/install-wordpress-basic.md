@@ -1,5 +1,5 @@
 ---
-title: Cài đặt WordPress miễn phí
+title: Cài đặt WordPress basic
 sections:
   - section_id: install-wordpress-free
     title: Cài đặt WordPress miễn phí
