@@ -51,7 +51,7 @@ sections:
       - input_type: text
         name: password_domain
         label: Mật khẩu đăng nhập vào tên miền *
-        default_value: lorem-ipsum
+        default_value: Mật khẩu đăng nhập vào tên miền *
         options: []
         is_required: false
     submit_label: Submit
