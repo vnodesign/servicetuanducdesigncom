@@ -618,7 +618,7 @@
 
     .button {
       background: $color-primary;
-      border-color: #fff;
+      border-color: $color-primary;
       color: $color-primary;
   
       &.secondary {
