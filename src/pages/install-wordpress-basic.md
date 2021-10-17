@@ -39,7 +39,7 @@ sections:
       - input_type: select
         name: bank_card
         label: Bạn dùng thẻ ở ngân hàng nào? *
-        default_value: lorem-ipsum
+        default_value: Lựa chọn ngân hàng
         options: []
         is_required: false
     submit_label: Submit
