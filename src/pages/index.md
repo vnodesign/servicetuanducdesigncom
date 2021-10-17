@@ -3,7 +3,7 @@ title: Trang chủ
 sections:
   - section_id: hero
     type: section_hero
-    image: images/cloud-vps-bg.png
+    image: images/2C2CC916-F202-44A1-B8C4-0078A930406F.png
     image_alt: Cloud
     title: Tuan Duc Service
     content: >
