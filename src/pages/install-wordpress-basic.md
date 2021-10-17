@@ -8,7 +8,7 @@ sections:
     type: section_hero
   - section_id: install-wordpress-basic-main
     background: gray
-    form_id: install-website-basic
+    form_id: install-wordpress-basic
     form_action: install-website-basic
     hide_labels: false
     form_fields:
