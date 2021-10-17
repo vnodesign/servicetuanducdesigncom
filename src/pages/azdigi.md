@@ -14,7 +14,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:title'
-      value: AZDIGI - Tuan Duc Design
+      value: AZDIGI - Tuan Duc Service
       keyName: property
       relativeUrl: false
     - name: 'og:description'
