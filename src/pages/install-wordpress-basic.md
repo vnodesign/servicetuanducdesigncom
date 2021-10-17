@@ -32,7 +32,7 @@ sections:
         is_required: true
       - input_type: password
         name: Mật khẩu đăng nhập Admin WordPress *
-        label: Mật khẩu đăng nhập Admin WordPress *password_adminwp
+        label: Mật khẩu đăng nhập Admin WordPress *
         default_value: Mật khẩu đăng nhập Admin WordPress
         options: []
         is_required: false
