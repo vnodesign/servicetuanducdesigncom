@@ -79,7 +79,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: Cài đặt VPS Pro - Tuan Duc Design
+  title: Cài đặt VPS Pro - Tuan Duc Service
   description: Thông tin về gói cài đặt VPS Pro
   robots: []
   extra:
