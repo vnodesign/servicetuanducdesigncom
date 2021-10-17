@@ -49,7 +49,7 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: Tên đăng nhập VPS *
+        name: username_vps
         label: Tên đăng nhập VPS *
         default_value: Tên đăng nhập VPS
         options: []
