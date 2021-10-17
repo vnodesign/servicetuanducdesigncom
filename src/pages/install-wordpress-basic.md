@@ -45,6 +45,7 @@ sections:
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
+          - lorem-ipsum
         is_required: true
     submit_label: Submit
     type: section_contact
