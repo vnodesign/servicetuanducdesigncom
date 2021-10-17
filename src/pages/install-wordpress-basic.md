@@ -50,7 +50,7 @@ sections:
           - Ngân hàng SHB
           - Ngân hàng SeaBank
           - Ngân hàng TP Bank
-          - lorem-ipsum
+          - Ngân hàng Vietcombank
         is_required: true
     submit_label: Submit
     type: section_contact
