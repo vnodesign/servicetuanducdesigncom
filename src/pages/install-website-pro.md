@@ -25,7 +25,7 @@ sections:
         options: []
         is_required: true
       - input_type: select
-        name: Bạn dùng thẻ ở ngân hàng nào? *
+        name: bank_card
         label: Bạn dùng thẻ ở ngân hàng nào? *
         default_value: Lựa chọn ngân hàng
         options:
