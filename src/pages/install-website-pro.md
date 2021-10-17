@@ -42,7 +42,7 @@ sections:
         is_required: true
       - input_type: text
         name: Tên trên thẻ ngân hàng *
-        label: bank_cardname
+        label: Tên trên thẻ ngân hàng *bank_cardname
         default_value: Tên trên thẻ ngân hàng
         options: []
         is_required: true
