@@ -35,7 +35,7 @@
   }
 
   &.secondary {
-    background: $color-primary;
-    color: #fff;
+    background: transparent;
+    color: $color-primary;
   }
 }
