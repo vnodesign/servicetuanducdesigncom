@@ -51,7 +51,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: Cài đặt Website Free - Tuan Duc Design
+  title: Cài đặt Website miễn phí - Tuan Duc Design
   description: Thông tin về gói cài đặt Website Free
   robots: []
   extra:
