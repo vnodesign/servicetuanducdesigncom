@@ -40,7 +40,8 @@ sections:
         name: bank_card
         label: Bạn dùng thẻ ở ngân hàng nào? *
         default_value: Lựa chọn ngân hàng
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
     submit_label: Submit
     type: section_contact
