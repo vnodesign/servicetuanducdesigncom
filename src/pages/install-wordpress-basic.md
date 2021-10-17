@@ -47,7 +47,7 @@ sections:
           - Ngân hàng Đông Á Bank
           - Ngân hàng PVComBank
           - Ngân hàng Sacombank
-          - lorem-ipsum
+          - Ngân hàng SHB
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
