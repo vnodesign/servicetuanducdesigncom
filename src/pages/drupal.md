@@ -5,7 +5,7 @@ subtitle: >-
   dung miễn phí và mã nguồn mở.
 image_alt: Drupal
 seo:
-  title: Drupal - Tuan Duc Design
+  title: Drupal - Tuan Duc Service
   description: >-
     Drupal là một khung sườn phát triển phần mềm hướng mô-đun, một hệ quản trị
     nội dung miễn phí và mã nguồn mở.
