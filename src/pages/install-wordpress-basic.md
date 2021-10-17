@@ -49,7 +49,7 @@ sections:
           - Ngân hàng Sacombank
           - Ngân hàng SHB
           - Ngân hàng SeaBank
-          - lorem-ipsum
+          - Ngân hàng TP Bank
           - lorem-ipsum
         is_required: true
     submit_label: Submit
