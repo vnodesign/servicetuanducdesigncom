@@ -36,12 +36,6 @@ sections:
         default_value: Mật khẩu đăng nhập Admin WordPress
         options: []
         is_required: false
-      - input_type: password
-        name: Mật khẩu VPS *
-        label: password_vps
-        default_value: Mật khẩu VPS
-        options: []
-        is_required: true
       - input_type: text
         name: Nhà đăng ký tên miền *
         label: domain_nameregistrar
