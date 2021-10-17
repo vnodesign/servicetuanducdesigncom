@@ -61,7 +61,7 @@ sections:
       - input_type: text
         name: bank_cardnumber
         label: Số tài khoản ngân hàng *
-        default_value: lorem-ipsum
+        default_value: Số tài khoản ngân hàng
         options: []
         is_required: false
     submit_label: Submit
