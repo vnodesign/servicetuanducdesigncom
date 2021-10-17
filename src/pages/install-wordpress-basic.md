@@ -36,12 +36,6 @@ sections:
         default_value: Mật khẩu đăng nhập Admin WordPress
         options: []
         is_required: false
-      - input_type: number
-        name: port_vps
-        label: PORT VPS (Nếu có)
-        default_value: Mặc định port login ssh là 22
-        options: []
-        is_required: false
       - input_type: text
         name: username_vps
         label: Tên đăng nhập VPS *
