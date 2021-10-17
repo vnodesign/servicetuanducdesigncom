@@ -37,12 +37,6 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: username_domain
-        label: Tên đăng nhập vào tên miền *
-        default_value: Tên đăng nhập vào tên miền
-        options: []
-        is_required: true
-      - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
