@@ -24,18 +24,6 @@ sections:
         default_value: Địa chỉ Email
         options: []
         is_required: true
-      - input_type: text
-        name: username_adminwp
-        label: 'Tên đăng nhập Admin WordPress * '
-        default_value: Tên đăng nhập Admin WordPress
-        options: []
-        is_required: true
-      - input_type: password
-        name: password_adminwp
-        label: Mật khẩu đăng nhập Admin WordPress *
-        default_value: Mật khẩu đăng nhập Admin WordPress
-        options: []
-        is_required: false
       - input_type: select
         name: bank_card
         label: Bạn dùng thẻ ở ngân hàng nào? *
@@ -52,6 +40,18 @@ sections:
           - Ngân hàng TP Bank
           - Ngân hàng Vietcombank
         is_required: true
+      - input_type: text
+        name: username_adminwp
+        label: 'Tên đăng nhập Admin WordPress * '
+        default_value: Tên đăng nhập Admin WordPress
+        options: []
+        is_required: true
+      - input_type: password
+        name: password_adminwp
+        label: Mật khẩu đăng nhập Admin WordPress *
+        default_value: Mật khẩu đăng nhập Admin WordPress
+        options: []
+        is_required: false
     submit_label: Submit
     type: section_contact
 seo:
