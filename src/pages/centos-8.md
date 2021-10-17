@@ -6,7 +6,7 @@ subtitle: >-
   CentOS đã phải xây dựng cơ sở hạ tầng để hỗ trợ RHEL 8 mới được giới thiệu.
 image_alt: Cloud
 seo:
-  title: CentOS 8 - Tuan Duc Design
+  title: CentOS 8 - Tuan Duc Service
   description: >-
     CentOS 8 là bản phân phối Linux có nguồn gốc từ Red Hat Enterprise Linux,
     nhóm CentOS đã phải xây dựng cơ sở hạ tầng để hỗ trợ RHEL 8 mới được giới
