@@ -44,7 +44,7 @@ sections:
           - Ngân hàng VPBank
           - Ngân hàng ACB
           - Ngân hàng BIDV
-          - lorem-ipsum
+          - Ngân hàng Đông Á Bank
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
