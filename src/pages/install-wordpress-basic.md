@@ -2,7 +2,7 @@
 title: Cài đặt Website Basic
 sections:
   - section_id: install-website-basic
-    title: Cài đặt Website Basic
+    title: Cài đặt WordPress Basic
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
