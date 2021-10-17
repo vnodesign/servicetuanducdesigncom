@@ -79,7 +79,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: ''
+  title: Cài đặt Website Basic - Tuan Duc Design
   description: ''
   robots: []
   extra: []
