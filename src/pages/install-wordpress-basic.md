@@ -41,7 +41,7 @@ sections:
         label: Bạn dùng thẻ ở ngân hàng nào? *
         default_value: Lựa chọn ngân hàng
         options: []
-        is_required: false
+        is_required: true
     submit_label: Submit
     type: section_contact
 seo:
