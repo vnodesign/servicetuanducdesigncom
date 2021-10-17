@@ -42,7 +42,7 @@ sections:
         default_value: Lựa chọn ngân hàng
         options:
           - Ngân hàng VPBank
-          - lorem-ipsum
+          - Ngân hàng ACB
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
