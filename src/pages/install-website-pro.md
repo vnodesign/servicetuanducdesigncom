@@ -79,7 +79,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: Cài đặt Website Pro
+  title: Cài đặt Website Pro - Tuan Duc Service
   description: Thông tin về gói cài đăt Website Pro
   robots: []
   extra:
