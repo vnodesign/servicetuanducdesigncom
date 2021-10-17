@@ -640,7 +640,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Tuan Duc Design - Chuyên cung cấp dịch vụ VPS và Website
+      value: Tuan Duc Service - Chuyên cung cấp dịch vụ VPS và Website
       keyName: property
     - name: 'og:description'
       value: >-
