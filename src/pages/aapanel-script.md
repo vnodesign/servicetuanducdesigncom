@@ -6,7 +6,7 @@ subtitle: >-
   của bạn sẽ sẵn sàng hoạt động ngay lập tức.
 image_alt: AAPanel Script
 seo:
-  title: Chi tiết về AAPanel Script - Tuan Duc Design
+  title: Chi tiết về AAPanel Script - Tuan Duc Service
   description: >-
     AAPanel là một bảng điều khiển đơn giản nhưng mạnh mẽ cho máy chủ linux. chỉ
     cần nhấp chuột là cài đặt môi trường và phần mềm phát triển
