@@ -38,7 +38,7 @@ sections:
         is_required: false
       - input_type: select
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Bạn dùng thẻ ở ngân hàng nào? *
         default_value: lorem-ipsum
         options: []
         is_required: false
