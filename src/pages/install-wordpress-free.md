@@ -37,7 +37,7 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: Nhà đăng ký tên miền *
+        name: domain_nameregistrar
         label: Nhà đăng ký tên miền *
         default_value: Nhà đăng ký tên miền
         options: []
