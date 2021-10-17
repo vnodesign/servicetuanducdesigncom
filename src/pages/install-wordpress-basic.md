@@ -63,7 +63,7 @@ sections:
         label: Số tài khoản ngân hàng *
         default_value: Số tài khoản ngân hàng
         options: []
-        is_required: false
+        is_required: true
     submit_label: Submit
     type: section_contact
 seo:
