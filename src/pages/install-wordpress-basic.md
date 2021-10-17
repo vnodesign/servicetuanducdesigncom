@@ -62,7 +62,7 @@ sections:
         is_required: true
       - input_type: text
         name: Nhà đăng ký tên miền *
-        label: Nhà đăng ký tên miền *domain_nameregistrar
+        label: Nhà đăng ký tên miền *
         default_value: Nhà đăng ký tên miền
         options: []
         is_required: true
