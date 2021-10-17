@@ -49,7 +49,7 @@ sections:
         options: []
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: password_domain
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
