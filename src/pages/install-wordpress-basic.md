@@ -54,7 +54,7 @@ sections:
         is_required: false
       - input_type: text
         name: bank_cardname
-        label: lorem-ipsum
+        label: Tên trên thẻ ngân hàng *
         default_value: lorem-ipsum
         options: []
         is_required: false
