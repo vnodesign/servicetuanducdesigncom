@@ -631,7 +631,7 @@ sections:
           để duy trì các dịch vụ** bạn đã mua mà chúng tôi cung cấp nữa.
     type: section_faq
 seo:
-  title: Tuan Duc Design - Chuyên cung cấp dịch vụ VPS và Website
+  title: Tuan Duc Service - Chuyên cung cấp dịch vụ VPS và Website
   description: >-
     Chuyên cung cấp dịch vụ VPS và Website, Hướng dẫn bảo mật VPS và Website từ
     cơ bản đến nâng cao cho người không chuyên, Hỗ trợ cài đặt VPS,Tối ưu VPS.
