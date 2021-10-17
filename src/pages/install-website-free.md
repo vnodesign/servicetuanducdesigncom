@@ -52,7 +52,7 @@ sections:
     type: section_contact
 seo:
   title: Cài đặt Website miễn phí - Tuan Duc Design
-  description: Thông tin về gói cài đặt Website Free
+  description: Thông tin về gói cài đặt Website miễn phí
   robots: []
   extra:
     - name: 'og:image'
