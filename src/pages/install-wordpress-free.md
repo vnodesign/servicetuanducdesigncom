@@ -50,7 +50,7 @@ sections:
         is_required: true
       - input_type: text
         name: password_domain
-        label: Mật khẩu đăng nhập vào tên miền
+        label: Mật khẩu đăng nhập vào tên miền *
         default_value: lorem-ipsum
         options: []
         is_required: false
