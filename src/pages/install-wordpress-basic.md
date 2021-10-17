@@ -41,7 +41,7 @@ sections:
         label: Bạn dùng thẻ ở ngân hàng nào? *
         default_value: Lựa chọn ngân hàng
         options:
-          - lorem-ipsum
+          - Ngân hàng VPBank
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
