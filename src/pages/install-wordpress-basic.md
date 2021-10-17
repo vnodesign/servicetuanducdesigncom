@@ -53,7 +53,7 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: 'https://www.facebook.com/profile.php?id=100006501228016'
+        name: bank_cardname
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
