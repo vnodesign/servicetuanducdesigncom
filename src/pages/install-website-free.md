@@ -32,7 +32,7 @@ sections:
         is_required: true
       - input_type: number
         name: PORT VPS (Nếu có)
-        label: port_vps
+        label: PORT VPS (Nếu có)port_vps
         default_value: Mặc định port login ssh là 22
         options: []
         is_required: false
