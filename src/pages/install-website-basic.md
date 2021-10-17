@@ -80,7 +80,7 @@ sections:
     type: section_contact
 seo:
   title: Cài đặt Website Basic - Tuan Duc Design
-  description: ''
+  description: Gói cài đặt Website Basic
   robots: []
   extra: []
 template: landing
