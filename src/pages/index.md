@@ -655,7 +655,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Tuan Duc Design - Chuyên cung cấp dịch vụ VPS và Website
+      value: Tuan Duc Service - Chuyên cung cấp dịch vụ VPS và Website
     - name: 'twitter:description'
       value: >-
         Chuyên cung cấp dịch vụ VPS và Website, Hướng dẫn bảo mật VPS và Website
