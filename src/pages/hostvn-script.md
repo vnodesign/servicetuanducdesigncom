@@ -5,7 +5,7 @@ subtitle: >-
   thành phần cần thiết nhất cho VPS với một dòng lệnh duy nhất.
 image_alt: HOSTVN Script
 seo:
-  title: HOSTVN Script - Tuan Duc Design
+  title: HOSTVN Script - Tuan Duc Service
   description: >-
     HOSTVN Script là 1 bash script chạy trên SSH sẽ tự động cài đặt tất cả các
     thành phần cần thiết nhất cho VPS với một dòng lệnh duy nhất.
