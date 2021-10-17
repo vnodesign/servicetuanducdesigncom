@@ -43,7 +43,7 @@ sections:
         options:
           - Ngân hàng VPBank
           - Ngân hàng ACB
-          - lorem-ipsum
+          - Ngân hàng BIDV
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
