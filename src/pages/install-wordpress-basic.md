@@ -75,7 +75,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: Cài đặt WordPress basic - Tuan Duc Service
+  title: Cài đặt WordPress Basic - Tuan Duc Service
   description: Thông tin về gói cài đặt WordPress basic
   robots: []
   extra:
