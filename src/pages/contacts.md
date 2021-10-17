@@ -33,7 +33,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: Liên hệ - Tuan Duc Design
+  title: Liên hệ - Tuan Duc Service
   description: ''
   robots: []
   extra:
