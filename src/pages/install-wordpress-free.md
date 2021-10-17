@@ -53,7 +53,7 @@ sections:
         label: Mật khẩu đăng nhập vào tên miền *
         default_value: Mật khẩu đăng nhập vào tên miền *
         options: []
-        is_required: false
+        is_required: true
     submit_label: Submit
     type: section_contact
 seo:
