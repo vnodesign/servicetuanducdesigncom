@@ -36,12 +36,6 @@ sections:
         default_value: Mật khẩu đăng nhập Admin WordPress
         options: []
         is_required: false
-      - input_type: text
-        name: IP VPS *
-        label: ip_vps
-        default_value: IP VPS
-        options: []
-        is_required: true
       - input_type: number
         name: PORT VPS (Nếu có)
         label: port_vps
