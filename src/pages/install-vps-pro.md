@@ -71,7 +71,7 @@ sections:
         options: []
         is_required: true
       - input_type: password
-        name: Mật khẩu VPS *
+        name: password_vps
         label: Mật khẩu VPS *
         default_value: Mật khẩu VPS
         options: []
