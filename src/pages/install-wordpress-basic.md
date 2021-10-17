@@ -67,7 +67,7 @@ sections:
         options: []
         is_required: true
       - input_type: text
-        name: Tên đăng nhập vào tên miền *
+        name: username_domain
         label: Tên đăng nhập vào tên miền *
         default_value: Tên đăng nhập vào tên miền
         options: []
