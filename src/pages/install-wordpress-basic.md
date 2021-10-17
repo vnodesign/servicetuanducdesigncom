@@ -60,7 +60,7 @@ sections:
         is_required: true
       - input_type: text
         name: bank_cardnumber
-        label: lorem-ipsum
+        label: Số tài khoản ngân hàng *
         default_value: lorem-ipsum
         options: []
         is_required: false
