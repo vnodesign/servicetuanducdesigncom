@@ -25,7 +25,7 @@ sections:
         options: []
         is_required: true
       - input_type: text
-        name: Tên đăng nhập Admin WordPress *
+        name: username_adminwp
         label: Tên đăng nhập Admin WordPress *
         default_value: Tên đăng nhập Admin WordPress
         options: []
