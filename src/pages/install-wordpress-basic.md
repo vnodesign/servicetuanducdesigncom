@@ -2,7 +2,7 @@
 title: Cài đặt WordPress basic
 sections:
   - section_id: install-wordpress-basic
-    title: Cài đặt WordPress miễn phí
+    title: Cài đặt WordPress basic
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
