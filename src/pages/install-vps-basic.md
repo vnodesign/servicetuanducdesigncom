@@ -80,7 +80,7 @@ sections:
     type: section_contact
 seo:
   title: Cài đặt VPS Basic - Tuan Duc Service
-  description: ''
+  description: Thông tin về gói cài đặt VPS Basic
   robots: []
   extra:
     - name: 'og:image'
