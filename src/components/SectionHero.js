@@ -3,7 +3,7 @@ import _ from 'lodash';
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import {withPrefix, markdownify} from '../utils';
 import CtaButtons from './CtaButtons';
-import '../sass/main.scss';
+import '../css/main.scss';
 export default class SectionHero extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
