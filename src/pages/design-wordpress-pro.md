@@ -2,7 +2,7 @@
 title: Thiết kế WordPress Pro
 sections:
   - section_id: install-wordpress-basic
-    title: Cài đặt WordPress Basic
+    title: Thiết kế WordPress Pro
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
