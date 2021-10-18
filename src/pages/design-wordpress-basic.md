@@ -1,5 +1,5 @@
 ---
-title: Cài đặt WordPress Basic
+title: 'Thiết kế '
 sections:
   - section_id: install-wordpress-basic
     title: Cài đặt WordPress Basic
