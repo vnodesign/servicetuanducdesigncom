@@ -8,7 +8,7 @@ sections:
     type: section_hero
   - section_id: design-website-premium-main
     background: gray
-    form_id: install-wordpress-basic
+    form_id: design-website-premium
     form_action: install-wordpress-basic
     hide_labels: false
     form_fields:
