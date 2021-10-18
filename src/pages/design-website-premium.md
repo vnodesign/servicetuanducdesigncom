@@ -2,7 +2,7 @@
 title: Thiết kế website premium
 sections:
   - section_id: install-wordpress-basic
-    title: Cài đặt WordPress Basic
+    title: Thiết kế website premium
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
