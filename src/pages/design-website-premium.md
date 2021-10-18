@@ -40,12 +40,6 @@ sections:
           - Ngân hàng TP Bank
           - Ngân hàng Vietcombank
         is_required: true
-      - input_type: password
-        name: password_adminwp
-        label: Mật khẩu đăng nhập Admin WordPress *
-        default_value: Mật khẩu đăng nhập Admin WordPress
-        options: []
-        is_required: false
       - input_type: text
         name: bank_cardname
         label: Tên trên thẻ ngân hàng *
