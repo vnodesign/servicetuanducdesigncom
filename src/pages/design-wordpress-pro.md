@@ -68,7 +68,7 @@ sections:
     type: section_contact
 seo:
   title: Thiết kế WordPress Pro - Tuan Duc Service
-  description: Thông tin về gói cài đặt WordPress Basic
+  description: Thông tin về gói thiết kế WordPress Pro
   robots: []
   extra:
     - name: 'og:image'
