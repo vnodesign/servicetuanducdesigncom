@@ -55,7 +55,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: Thiết kế website premium - Tuan Duc Service
+  title: Thiết kế Website Premium - Tuan Duc Service
   description: Thông tin về gói thiết kế website premium
   robots: []
   extra:
