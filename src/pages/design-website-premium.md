@@ -1,5 +1,5 @@
 ---
-title: Thiết kế Website premium
+title: Thiết kế Website Premium
 sections:
   - section_id: design-website-premium
     title: Thiết kế website premium
