@@ -56,7 +56,7 @@ sections:
     type: section_contact
 seo:
   title: Thiết kế Website Premium - Tuan Duc Service
-  description: Thông tin về gói thiết kế website premium
+  description: Thông tin về gói thiết kế Website Premium
   robots: []
   extra:
     - name: 'og:image'
