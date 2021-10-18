@@ -58,7 +58,7 @@ sections:
     type: section_contact
 seo:
   title: Cài đặt WordPress miễn phí - Tuan Duc Service
-  description: ''
+  description: Thông tin về gói cài đặt WordPress miễn phí
   robots: []
   extra: []
 template: landing
