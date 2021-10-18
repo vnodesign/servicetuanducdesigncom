@@ -1,7 +1,7 @@
 ---
 title: Thiết kế WordPress Basic
 sections:
-  - section_id: install-wordpress-basic
+  - section_id: design-wordpress-basic
     title: Thiết kế WordPress Basic
     image_alt: lorem-ipsum
     actions: []
