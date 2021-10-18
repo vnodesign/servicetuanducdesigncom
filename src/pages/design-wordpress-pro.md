@@ -9,7 +9,7 @@ sections:
   - section_id: design-wordpress-pro-main
     background: gray
     form_id: design-wordpress-pro
-    form_action: install-wordpress-basic
+    form_action: design-wordpress-basic
     hide_labels: false
     form_fields:
       - input_type: text
