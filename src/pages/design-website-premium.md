@@ -9,7 +9,7 @@ sections:
   - section_id: design-website-premium-main
     background: gray
     form_id: design-website-premium
-    form_action: install-wordpress-basic
+    form_action: design-website-premium
     hide_labels: false
     form_fields:
       - input_type: text
