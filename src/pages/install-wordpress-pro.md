@@ -1,7 +1,7 @@
 ---
 title: Cài đặt WordPress Pro
 sections:
-  - section_id: install-wordpress-basic
+  - section_id: install-wordpress-pro
     title: Cài đặt WordPress Basic
     image_alt: lorem-ipsum
     actions: []
