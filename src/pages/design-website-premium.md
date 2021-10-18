@@ -1,7 +1,7 @@
 ---
 title: Thiết kế website premium
 sections:
-  - section_id: install-wordpress-basic
+  - section_id: design-website-premium
     title: Thiết kế website premium
     image_alt: lorem-ipsum
     actions: []
