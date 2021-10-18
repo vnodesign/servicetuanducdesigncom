@@ -1,5 +1,5 @@
 ---
-title: Cài đặt WordPress Basic
+title: Cài đặt WordPress Pro
 sections:
   - section_id: install-wordpress-basic
     title: Cài đặt WordPress Basic
