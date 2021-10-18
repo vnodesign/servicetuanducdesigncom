@@ -1,5 +1,5 @@
 ---
-title: Thiết kế WordPress Basic
+title: Thiết kế WordPress Pro
 sections:
   - section_id: install-wordpress-basic
     title: Cài đặt WordPress Basic
