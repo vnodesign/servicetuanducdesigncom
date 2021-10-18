@@ -57,7 +57,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: ''
+  title: Cài đặt WordPress miễn phí - Tuan Duc Service
   description: ''
   robots: []
   extra: []
