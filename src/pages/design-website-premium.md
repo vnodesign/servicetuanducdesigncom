@@ -68,7 +68,7 @@ sections:
     type: section_contact
 seo:
   title: Thiết kế website premium - Tuan Duc Service
-  description: Thông tin về gói cài đặt WordPress Basic
+  description: Thông tin về gói thiết kế website premium
   robots: []
   extra:
     - name: 'og:image'
