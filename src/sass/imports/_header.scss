@@ -94,7 +94,7 @@
 
   @supports (position: sticky) or (position: -webkit-sticky) {
     .site-header {
-      background: #fff;
+      //background: #fff;
       position: -webkit-sticky;
       position: sticky;
       top:0;
