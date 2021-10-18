@@ -2,7 +2,7 @@
 title: Thiết kế Website Premium
 sections:
   - section_id: design-website-premium
-    title: Thiết kế website premium
+    title: Thiết kế Website Premium
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
