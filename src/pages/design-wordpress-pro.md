@@ -1,7 +1,7 @@
 ---
 title: Thiết kế WordPress Pro
 sections:
-  - section_id: design-wordpress-basic
+  - section_id: design-wordpress-pro
     title: Thiết kế WordPress Pro
     image_alt: lorem-ipsum
     actions: []
