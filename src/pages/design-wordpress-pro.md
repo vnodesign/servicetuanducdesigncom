@@ -6,7 +6,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-  - section_id: design-wordpress-basic-main
+  - section_id: design-wordpress-pro-main
     background: gray
     form_id: install-wordpress-basic
     form_action: install-wordpress-basic
