@@ -5,7 +5,7 @@ subtitle: >-
   dụng để xây dựng ứng dụng web từ các dự án nhỏ đến lớn.
 image_alt: Laravel
 seo:
-  title: ''
+  title: Laravel - Tuan Duc Service
   description: ''
   robots: []
   extra: []
