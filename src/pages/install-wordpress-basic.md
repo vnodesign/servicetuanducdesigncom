@@ -41,6 +41,12 @@ sections:
           - Ngân hàng Vietcombank
         is_required: true
       - input_type: text
+        name: bank_cardname
+        label: Tên trên thẻ ngân hàng *
+        default_value: Tên trên thẻ ngân hàng
+        options: []
+        is_required: true
+      - input_type: text
         name: username_adminwp
         label: 'Tên đăng nhập Admin WordPress * '
         default_value: Tên đăng nhập Admin WordPress
@@ -52,12 +58,6 @@ sections:
         default_value: Mật khẩu đăng nhập Admin WordPress
         options: []
         is_required: false
-      - input_type: text
-        name: bank_cardname
-        label: Tên trên thẻ ngân hàng *
-        default_value: Tên trên thẻ ngân hàng
-        options: []
-        is_required: true
       - input_type: text
         name: bank_cardnumber
         label: Số tài khoản ngân hàng *
