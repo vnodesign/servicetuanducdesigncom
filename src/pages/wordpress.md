@@ -5,7 +5,7 @@ subtitle: >-
   đẹp mắt.
 image_alt: WordPress
 seo:
-  title: ''
+  title: WordPress - Tuan Duc Service
   description: ''
   robots: []
   extra: []
