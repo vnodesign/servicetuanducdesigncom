@@ -181,5 +181,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Pricing
+  title: Bảng giá dịch vụ - Tuan Duc Service
 template: landing
 ---
