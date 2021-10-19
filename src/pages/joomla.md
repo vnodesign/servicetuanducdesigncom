@@ -5,7 +5,7 @@ subtitle: >-
   và ứng dụng trực tuyến mạnh mẽ.
 image_alt: WordPress
 seo:
-  title: ''
+  title: Joomla - Tuan Duc Service
   description: ''
   robots: []
   extra: []
