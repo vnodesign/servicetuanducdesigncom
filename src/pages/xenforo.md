@@ -5,7 +5,7 @@ subtitle: >-
   vBullentin (vBB)
 image_alt: Xenforo
 seo:
-  title: ''
+  title: Xenforo - Tuan Duc Service
   description: ''
   robots: []
   extra: []
