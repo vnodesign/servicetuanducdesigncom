@@ -68,7 +68,9 @@ sections:
     type: section_features
 seo:
   title: Nhà cung cấp - Tuan Duc Service
-  description: ''
+  description: >-
+    Hỗ trợ khách hàng tốt khi khách hàng sử dụng các nhà cung cấp VPS hàng đầu
+    thế giới.
   robots: []
   extra: []
 template: landing
