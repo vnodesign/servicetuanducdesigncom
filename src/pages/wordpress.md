@@ -8,7 +8,11 @@ seo:
   title: WordPress - Tuan Duc Service
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/wordpress-post.png
+      keyName: property
+      relativeUrl: true
 template: page
 image: images/wordpress-post.png
 ---
