@@ -6,7 +6,9 @@ subtitle: >-
 image_alt: WordPress
 seo:
   title: Joomla - Tuan Duc Service
-  description: ''
+  description: >-
+    Joomla! là một hệ thống quản lý nội dung (CMS) cho phép bạn xây dựng trang
+    web và ứng dụng trực tuyến mạnh mẽ.
   robots: []
   extra: []
 template: page
