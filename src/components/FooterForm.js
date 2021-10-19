@@ -40,7 +40,7 @@ export default class FooterForm extends React.Component {
                 </div>
                 <div className="form-row">
                   {status === "SUCCESS" ? <p>Thông tin của bạn đã được gửi đi, đừng quên kiểm tra email của bạn để xem có tin nhắn từ chúng tôi không nhé!</p> : <button type="submit" className="button">{_.get(section, 'submit_label', null)}</button>}
-                  {status === "ERROR" && <p></p>}
+                  {status === "ERROR" && <p>Xin lỗi! Bạn chưa nhập </p>}
                 </div>
               </form>
             </section>
