@@ -6,7 +6,9 @@ subtitle: >-
 image_alt: Vietnix
 seo:
   title: Vietnix - Tuan Duc Service
-  description: ''
+  description: >-
+    Dịch vụ Hosting đầu tiên tại Việt Nam tập trung phát triển công nghệ chống
+    tấn công DDoS chuyên nghiệp. Bạn hoàn toàn yên tâm với dịch vụ của Vietnix.
   robots: []
   extra: []
 template: page
