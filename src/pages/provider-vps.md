@@ -72,6 +72,10 @@ seo:
     Hỗ trợ khách hàng tốt khi khách hàng sử dụng các nhà cung cấp VPS hàng đầu
     thế giới.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg
+      keyName: property
+      relativeUrl: true
 template: landing
 ---
