@@ -11,10 +11,6 @@ seo:
     thành phần cần thiết nhất cho VPS với một dòng lệnh duy nhất.
   robots: []
   extra:
-    - name: 'og:title'
-      value: HOSTVN Script - Tuan Duc Design
-      keyName: property
-      relativeUrl: false
     - name: 'og:image'
       value: images/hostvn.png
       keyName: property
