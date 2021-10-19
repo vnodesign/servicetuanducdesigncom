@@ -80,7 +80,7 @@ sections:
         image: images/laravel.jpg
     type: section_features
 seo:
-  title: Hỗ trợ cài đặt mã nguồn - Tuan Duc Service
+  title: Cài đặt mã nguồn - Tuan Duc Service
   description: >-
     Những mã nguồn phổ biến trên thế giới như WordPress, Joomla, Drupal,
     Xenforo, Laravel, Codeigniter.
