@@ -18,7 +18,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:type'
-      value: website
+      value: article
       keyName: property
       relativeUrl: false
     - name: 'twitter:card'
