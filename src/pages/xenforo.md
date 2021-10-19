@@ -6,7 +6,9 @@ subtitle: >-
 image_alt: Xenforo
 seo:
   title: Xenforo - Tuan Duc Service
-  description: ''
+  description: >-
+    Xenforo là mã nguồn mở được xây dựng bởi các lập trình viên tách ra từ nhóm
+    vBullentin (vBB)
   robots: []
   extra: []
 template: page
