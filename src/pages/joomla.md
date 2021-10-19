@@ -15,6 +15,10 @@ seo:
       value: images/joomla.png
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/joomla.png
 ---
