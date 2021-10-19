@@ -15,6 +15,10 @@ seo:
       value: images/wordpress-post.png
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
 template: page
 image: images/wordpress-post.png
 ---
