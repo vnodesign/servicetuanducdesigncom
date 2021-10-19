@@ -1,5 +1,5 @@
 ---
-title: Bảng giá dịch vụ
+title: Bảng giá
 sections:
   - section_id: pricing-main
     title: Bảng giá dịch vụ
