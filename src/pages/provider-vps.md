@@ -67,7 +67,7 @@ sections:
         image: images/inet.jpg
     type: section_features
 seo:
-  title: ''
+  title: Nhà cung cấp - Tuan Duc Service
   description: ''
   robots: []
   extra: []
