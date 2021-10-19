@@ -7,7 +7,9 @@ subtitle: >-
 image_alt: AAPanel Script
 seo:
   title: LarVPS Script - Tuan Duc Service
-  description: ''
+  description: >-
+    LarVPS Script được thiết kế quản trị đơn giản, nhẹ, tối ưu tốc độ, bảo mật,
+    phục vụ cho mã nguồn PHP phổ biến như Wordpress, Laravel...
   robots: []
   extra: []
 template: page
