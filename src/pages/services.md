@@ -234,10 +234,6 @@ seo:
     hàng.
   robots: []
   extra:
-    - name: 'og:title'
-      value: Service - Tuan Duc Design
-      keyName: property
-      relativeUrl: false
     - name: 'twitter:title'
       value: Service - Tuan Duc Design
       keyName: name
