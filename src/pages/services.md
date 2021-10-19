@@ -229,7 +229,9 @@ sections:
     type: section_faq
 seo:
   title: Dịch vụ - Tuan Duc Service
-  description: ''
+  description: >-
+    Tuan Duc Design luôn mong muốn cung cấp các dịch vụ tốt nhất dành cho khách
+    hàng.
   robots: []
   extra:
     - name: 'og:title'
