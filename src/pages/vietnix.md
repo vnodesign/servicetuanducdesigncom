@@ -5,7 +5,7 @@ subtitle: >-
   công DDoS chuyên nghiệp. Bạn hoàn toàn yên tâm với dịch vụ của Vietnix.
 image_alt: Vietnix
 seo:
-  title: ''
+  title: Vietnix - Tuan Duc Service
   description: ''
   robots: []
   extra: []
