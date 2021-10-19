@@ -6,7 +6,7 @@ subtitle: >-
   mới nhất
 image_alt: AAPanel Script
 seo:
-  title: ''
+  title: LarVPS Script - Tuan Duc Service
   description: ''
   robots: []
   extra: []
