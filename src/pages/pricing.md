@@ -2,7 +2,7 @@
 title: Bảng giá
 sections:
   - section_id: pricing-main
-    title: Bảng giá dịch vụ Tuan Duc Design
+    title: Bảng giá dịch vụ
     content: >
       Chọn gói theo nhu cầu của bạn. Việc miễn phí các tính năng cơ bản là mãi
       mãi.
