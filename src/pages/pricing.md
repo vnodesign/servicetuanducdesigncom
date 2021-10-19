@@ -175,7 +175,7 @@ sections:
 seo:
   extra:
     - name: 'og:type'
-      value: website
+      value: article
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
