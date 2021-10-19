@@ -47,10 +47,6 @@ export default class SectionContact extends React.Component {
                   {status === "SUCCESS" ? <p>Thông tin của bạn đã được gửi đi, đừng quên kiểm tra email của bạn để xem có tin nhắn từ chúng tôi không nhé!</p> : <button type="submit" className="button">{_.get(section, 'submit_label', null)}</button>}
                   {status === "ERROR" && <p>Xin lỗi! Bạn chưa nhập đẩy đủ thông tin hoặc hệ thống đang bị lỗi, vui lòng thử lại sau.</p>}
                 </div>
-                  <div className="form-row form-submit">
-                    {status === "SUCCESS" ? <p>Your information has been sent, do not forget to check your email to see if there is a message from us!</p> : <button type="submit" className="button">{_.get(section, 'submit_label', null)}</button>}
-                    {status === "ERROR" && <p>Sorry! The system is busy, please come back later.</p>}
-                  </div>
                 </form>
               </div>
             </section>
