@@ -6,7 +6,9 @@ subtitle: >-
 image_alt: WordPress
 seo:
   title: WordPress - Tuan Duc Service
-  description: ''
+  description: >-
+    WordPress là mã nguồn mở giúp bạn tạo website, blog hay ứng dụng dễ dàng và
+    đẹp mắt.
   robots: []
   extra:
     - name: 'og:image'
