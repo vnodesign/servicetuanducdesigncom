@@ -11,7 +11,11 @@ seo:
     LarVPS Script được thiết kế quản trị đơn giản, nhẹ, tối ưu tốc độ, bảo mật,
     phục vụ cho mã nguồn PHP phổ biến như Wordpress, Laravel...
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/larvps-script-post.png
+      keyName: property
+      relativeUrl: true
 template: page
 image: images/larvps-script-post.png
 ---
