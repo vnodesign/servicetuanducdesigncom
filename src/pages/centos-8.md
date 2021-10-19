@@ -17,10 +17,6 @@ seo:
       value: images/centos-7-post.jpg
       keyName: property
       relativeUrl: true
-    - name: 'og:title'
-      value: CentOS 8 - Tuan Duc Design
-      keyName: property
-      relativeUrl: false
     - name: 'og:description'
       value: >-
         CentOS 8 là bản phân phối Linux có nguồn gốc từ Red Hat Enterprise
