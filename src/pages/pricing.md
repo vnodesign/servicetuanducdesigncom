@@ -183,7 +183,7 @@ seo:
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg
       keyName: property
       relativeUrl: true
-  title: Bảng giá dịch vụ - Tuan Duc Service
+  title: Bảng giá - Tuan Duc Service
   description: >-
     Thông tin về bảng giá của các dịch vụ, chọn gói theo nhu cầu của bạn. Việc
     miễn phí các tính năng cơ bản là mãi mãi.
