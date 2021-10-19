@@ -10,7 +10,11 @@ seo:
     Xenforo là mã nguồn mở được xây dựng bởi các lập trình viên tách ra từ nhóm
     vBullentin (vBB)
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/xenforo.png
+      keyName: property
+      relativeUrl: true
 template: page
 image: images/xenforo.png
 ---
