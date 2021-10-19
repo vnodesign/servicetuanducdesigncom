@@ -42,7 +42,9 @@ sections:
     type: section_features
 seo:
   title: Hệ điều hành - Tuan Duc Service
-  description: ''
+  description: >-
+    Chúng tôi luôn chọn hệ điều hành CentOS 7 hoặc CentOS 8 để hỗ trợ khách hàng
+    dễ dàng khi sử dụng dịch vụ của mình.
   robots: []
   extra:
     - name: 'og:image'
