@@ -68,7 +68,9 @@ sections:
     type: section_features
 seo:
   title: Công nghệ sử dụng trên VPS - Tuan Duc Service
-  description: ''
+  description: >-
+    Chúng tôi luôn chọn các công cụ mới nhất để giúp khách hàng quản lý VPS của
+    mình dễ dàng.
   robots: []
   extra: []
 template: landing
