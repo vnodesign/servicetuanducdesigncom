@@ -10,7 +10,11 @@ seo:
     Vultr là nhà cung cấp dịch vụ Cloud Server nổi tiếng chất lượng với 100%
     phần cứng SSD, 15 datacenter location trải dài trên khắp thế giới.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/vultr.jpg
+      keyName: property
+      relativeUrl: true
 template: page
 image: images/vultr.jpg
 ---
