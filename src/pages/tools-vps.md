@@ -67,7 +67,7 @@ sections:
         image: images/larvps-script.png
     type: section_features
 seo:
-  title: ''
+  title: Công nghệ sử dụng trên VPS - Tuan Duc Service
   description: ''
   robots: []
   extra: []
