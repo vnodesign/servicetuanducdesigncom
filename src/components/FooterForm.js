@@ -39,7 +39,7 @@ export default class FooterForm extends React.Component {
                     <ReCAPTCHA sitekey="6LfmZc0cAAAAAMVRiGzFENjRbnaqwdXT4WzrH6e0" />
                 </div>
                 <div className="form-row">
-                  {status === "SUCCESS" ? <p>Your information has been sent, do not forget to check your email to see if there is a message from us!</p> : <button type="submit" className="button">{_.get(section, 'submit_label', null)}</button>}
+                  {status === "SUCCESS" ? <p>Thông tin của bạn đã được gửi đi, đừng quên kiểm tra email của bạn để xem có tin nhắn từ chúng tôi không nhé!</p> : <button type="submit" className="button">{_.get(section, 'submit_label', null)}</button>}
                   {status === "ERROR" && <p>Sorry! The system is busy, please come back later.</p>}
                 </div>
               </form>
