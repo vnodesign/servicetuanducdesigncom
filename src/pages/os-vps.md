@@ -41,7 +41,7 @@ sections:
         image: images/centos-8.png
     type: section_features
 seo:
-  title: ''
+  title: Hệ điều hành - Tuan Duc Service
   description: ''
   robots: []
   extra: []
