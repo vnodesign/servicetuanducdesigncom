@@ -228,7 +228,7 @@ sections:
           phải thanh toán**.
     type: section_faq
 seo:
-  title: Service - Tuan Duc Design
+  title: Dịch vụ - Tuan Duc Service
   description: ''
   robots: []
   extra:
