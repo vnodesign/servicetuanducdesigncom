@@ -1,8 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
-import {Link, withPrefix, classNames} from '../../utils';
-import Action from '../Action/Action';
+import {Link, withPrefix, classNames} from '../utils';
+import Action from './Action';
 
 export default class Header extends React.Component {
     render() {

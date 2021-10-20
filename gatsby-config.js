@@ -99,15 +99,8 @@ module.exports = {
             publisherId: `ca-pub-4183134625750063`
           },
         },
-        'gatsby-plugin-no-sourcemaps',
         'gatsby-plugin-optimize-svgs',
         'gatsby-plugin-robots-txt',
-        {
-          resolve: 'gatsby-plugin-preconnect',
-          options: {
-            domains: ['https://pagead2.googlesyndication.com', 'https://www.googletagmanager.com', 'https://connect.facebook.net', 'https://www.facebook.com', 'https://static.xx.fbcdn.net', 'https://www.google-analytics.com', 'https://www.google.com'],
-          },
-          },
         'gatsby-plugin-sitemap',
         {
             resolve: `@stackbit/gatsby-plugin-menus`,

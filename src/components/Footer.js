@@ -1,9 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
 
-import components from '../index';
-import ActionLink from '../Action/ActionLink';
-import {htmlToReact} from '../../utils';
+import components from './index';
+import ActionLink from './ActionLink';
+import {htmlToReact} from '../utils';
 
 export default class Footer extends React.Component {
     render() {

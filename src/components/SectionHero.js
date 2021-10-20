@@ -1,14 +1,13 @@
 import React from 'react';
 import _ from 'lodash';
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
-import {withPrefix, markdownify} from '../../utils';
-import CtaButtons from '../Button/CtaButtons';
-
-export default class SectionContent extends React.Component {
+import {withPrefix, markdownify} from '../utils';
+import CtaButtons from './CtaButtons';
+export default class SectionHero extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         return (
-            <section id={_.get(section, 'section_id', null)} className={'block text-block bg-' + _.get(section, 'background', null) + ' outer'}>
+            <section id={_.get(section, 'section_id', null)} className="block hero-block bg-accent outer">
               <div className="inner">
                 <div className="grid">
                   {_.get(section, 'image', null) && (

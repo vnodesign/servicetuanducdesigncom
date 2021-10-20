@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {htmlToReact, withPrefix} from '../../utils';
+import {htmlToReact, withPrefix} from '../utils';
 
 export default class SectionReviews extends React.Component {
     render() {

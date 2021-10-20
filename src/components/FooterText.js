@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
-import {Link, withPrefix, markdownify} from '../../utils';
+import {Link, withPrefix, markdownify} from '../utils';
 
 export default class FooterText extends React.Component {
     render() {

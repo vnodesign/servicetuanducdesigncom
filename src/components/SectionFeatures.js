@@ -1,8 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
-import {htmlToReact, withPrefix, markdownify} from '../../utils';
-import CtaButtons from '../Button/CtaButtons';
+import {htmlToReact, withPrefix, markdownify} from '../utils';
+import CtaButtons from './CtaButtons';
 
 export default class SectionFeatures extends React.Component {
     render() {

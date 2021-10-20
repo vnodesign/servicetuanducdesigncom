@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-import {classNames} from '../../utils';
+import {classNames} from '../utils';
 
 export default class FormField extends React.Component {
     render() {

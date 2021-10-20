@@ -1,8 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {htmlToReact} from '../../utils';
-import CtaButtons from '../Button/CtaButtons';
+import {htmlToReact} from '../utils';
+import CtaButtons from './CtaButtons';
 
 export default class SectionCta extends React.Component {
     render() {
