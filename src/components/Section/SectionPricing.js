@@ -1,8 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {htmlToReact, classNames, markdownify} from '../utils';
-import CtaButtons from './CtaButtons';
+import {htmlToReact, classNames, markdownify} from '../../utils';
+import CtaButtons from '../Button/CtaButtons';
 
 export default class SectionPricing extends React.Component {
     render() {
