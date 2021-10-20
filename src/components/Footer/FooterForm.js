@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 import {markdownify} from '../../utils';
-import { useForm } from '@formspree/react';
 import FormField from '../Form/FormField';
 import '../../sass/recaptcha.scss';
 import ReCAPTCHA from "react-google-recaptcha";
@@ -14,7 +13,6 @@ export default class FooterForm extends React.Component {
     }
     render() {
         const { status } = this.state;
-        const [submitForm] = useForm('mknkawry');
         let section = _.get(this.props, 'section', null);
         return (
             <section className="cell widget widget-form">
@@ -22,7 +20,7 @@ export default class FooterForm extends React.Component {
               <h2 className="widget-title">{_.get(section, 'title', null)}</h2>
               )}
               {markdownify(_.get(section, 'content', null))}
-              <form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)} {...(_.get(section, 'form_action', null) ? ({action: _.get(section, 'form_action', null)}) : null)} method="POST" onSubmit={submitForm}>
+              <form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)} {...(_.get(section, 'form_action', null) ? ({action: _.get(section, 'form_action', null)}) : null)} method="POST" action="https://formspree.io/f/mknkawry" onSubmit={this.submitForm}>
                 <div className="screen-reader-text">
                   <label id={_.get(section, 'form_id', null)} htmlFor={_.get(section, 'form_id', null)}>Don't fill this out if you're
                     human:</label>
