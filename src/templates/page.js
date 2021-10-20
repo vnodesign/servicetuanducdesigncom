@@ -1,7 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
-
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
 import {Layout} from '../components/index';
 import {htmlToReact, withPrefix} from '../utils';
 
@@ -32,7 +33,7 @@ export default class Page extends React.Component {
                   </header>
                   {_.get(this.props, 'pageContext.frontmatter.image', null) && (
                   <div className="post-image">
-                    <img src={withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))} alt={_.get(this.props, 'pageContext.frontmatter.image_alt', null)} loading="lazy" decoding="async" />
+                    <LazyLoadImage alt={_.get(this.props, 'pageContext.frontmatter.image_alt', null)} effect="blur" src={withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))} />
                   </div>
                   )}
                   <div className="post-content">

@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
-import { LazyLoadComponent } from 'react-lazy-load-image-component';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
 import {withPrefix, markdownify} from '../../utils';
 import CtaButtons from '../Button/CtaButtons';
 export default class SectionHero extends React.Component {
@@ -12,9 +13,7 @@ export default class SectionHero extends React.Component {
                 <div className="grid">
                   {_.get(section, 'image', null) && (
                   <div className="cell block-preview">
-                  <LazyLoadComponent>
-                    <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} loading="lazy" decoding="async" />
-                  </LazyLoadComponent>
+                  <LazyLoadImage alt={_.get(section, 'image_alt', null)} effect="blur" src={withPrefix(_.get(section, 'image', null))} />
                   </div>
                   )}
                   <div className="cell block-content">

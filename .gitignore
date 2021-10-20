@@ -60,6 +60,7 @@ public
 
 # Mac files
 .DS_Store
+._*
 
 # Yarn
 yarn-error.log
@@ -67,3 +68,5 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+# Other
+package-lock.json

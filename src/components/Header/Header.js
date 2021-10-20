@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
-import { LazyLoadComponent } from 'react-lazy-load-image-component';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
 import {Link, withPrefix, classNames} from '../../utils';
 import Action from '../Action/Action';
 
@@ -12,12 +13,16 @@ export default class Header extends React.Component {
                 <div className="site-header-inside">
                   <div className="site-branding">
                     {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null) && (
-                    <p className="site-logo"><Link to={withPrefix('/')} title={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img_alt', null)}><LazyLoadComponent><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img_alt', null)} loading="lazy" decoding="async" /></LazyLoadComponent></Link></p>
+                    <p className="site-logo">
+                      <Link to={withPrefix('/')} title={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img_alt', null)}>
+                      <LazyLoadImage alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img_alt', null)} effect="blur" src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null))} />
+                      </Link>
+                    </p>
                     )}
-                    {((_.get(this.props, 'pageContext.frontmatter.template', null) === 'landing') || (_.get(this.props, 'pageContext.frontmatter.template', null) === 'blog')) ? (
-                    <h1 className={classNames('site-title', {'screen-reader-text': _.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null)})}><Link to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.title', null)}</Link></h1>
+                    {((_.get(this.props, 'pageContext.frontmatter.template', null) === 'landing') || (_.get(this.props, 'pageContext.frontmatter.template', null) === 'page')) ? (
+                    <h1 className={classNames('site-title', {'screen-reader-text': _.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null)})}><Link to={withPrefix('/')} title={_.get(this.props, 'pageContext.site.siteMetadata.title', null)}>{_.get(this.props, 'pageContext.site.siteMetadata.title', null)}</Link></h1>
                     ) : 
-                    <p className={classNames('site-title', {'screen-reader-text': _.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null)})}><Link to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.title', null)}</Link></p>
+                    <p className={classNames('site-title', {'screen-reader-text': _.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null)})}><Link to={withPrefix('/')} title={_.get(this.props, 'pageContext.site.siteMetadata.title', null)}>{_.get(this.props, 'pageContext.site.siteMetadata.title', null)}</Link></p>
                     }
                   </div>
                   {(_.get(this.props, 'pageContext.site.siteMetadata.header.nav_links', null) && _.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null)) && (<React.Fragment>

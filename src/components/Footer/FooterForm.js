@@ -1,9 +1,13 @@
 import React from 'react';
 import _ from 'lodash';
 import {markdownify} from '../../utils';
+import loadable from '@loadable/component';
 import FormField from '../Form/FormField';
 import '../../sass/recaptcha.scss';
-import ReCAPTCHA from "react-google-recaptcha";
+const ReCAPTCHA = loadable(() =>
+  import(/* webpackPrefetch: true */ 'react-google-recaptcha')
+);
+//import ReCAPTCHA from "react-google-recaptcha";
 export default class FooterForm extends React.Component {
     constructor(props) {
     super(props);
