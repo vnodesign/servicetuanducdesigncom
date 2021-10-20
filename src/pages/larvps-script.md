@@ -10,7 +10,7 @@ seo:
   description: >-
     LarVPS Script được thiết kế quản trị đơn giản, nhẹ, tối ưu tốc độ, bảo mật,
     phục vụ cho mã nguồn PHP phổ biến như Wordpress, Laravel...
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/larvps-script-post.png
@@ -33,7 +33,7 @@ Những yêu cầu trước khi cài đặt LarVPS bạn cần đọc qua để 
 
 **Kết nối SSH đến VPS**
 
-Để thao tác được với VPS thì việc đầu tiên bạn cần một công cụ có thể kết nối từ máy tính của bạn đến VPS qua giao thức  SSH (Secure Shell). Nghĩa là bạn có thể quản lý VPS từ xa thông qua Internet. Ví dụ VPS mua ở Japan, bạn ở Việt Nam vẫn kết nối được.
+Để thao tác được với VPS thì việc đầu tiên bạn cần một công cụ có thể kết nối từ máy tính của bạn đến VPS qua giao thức  SSH (Secure Shell). Nghĩa là bạn có thể quản lý VPS từ xa thông qua Internet. Ví dụ VPS mua ở Japan, bạn ở Việt Nam vẫn kết nối được.
 
 Để kết nối SSH đến VPS bạn có thể sử dụng một trong các công cụ sau:
 
@@ -43,15 +43,15 @@ Những yêu cầu trước khi cài đặt LarVPS bạn cần đọc qua để 
 
 *   [Mobaxterm](https://mobaxterm.mobatek.net/download-home-edition.html)
 
-*   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (Win)
+*   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (Win)
 
 *   Powershell (Win)
 
 *   Terminal (Mac)
 
-Thường mặc định các nhà cung cấp VPS sử dụng port  **22** + IP + Mật khẩu.
+Thường mặc định các nhà cung cấp VPS sử dụng port  **22** + IP + Mật khẩu.
 
-Ví dụ ở đây mình sử dụng VPS có IP là: **14.225.255.151**
+Ví dụ ở đây mình sử dụng VPS có IP là: **14.225.255.151**
 
 Vậy để kết nối đến VPS bạn gõ như sau:
 
@@ -67,9 +67,9 @@ Kế đến sẽ yêu cầu nhập mật khẩu, bạn hãy gõ 1 mạch hoặc 
 
 **Yêu cầu hệ thống**
 
-*   CPU: >= 1 Core
+*   CPU: >= 1 Core
 
-*   Ram: >= 1GB
+*   Ram: >= 1GB
 
 *   HDD: >= 10GB
 

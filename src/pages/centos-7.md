@@ -11,7 +11,7 @@ seo:
     CentOS (Community enterprise Operating System), là bản phân phối hệ điều
     hành dựa trên hạt nhân Linux . Được ra mắt lần đầu tiên vào tháng 5 năm
     2004.
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/centos-7-post.jpg

@@ -11,7 +11,7 @@ seo:
     AAPanel là một bảng điều khiển đơn giản nhưng mạnh mẽ cho máy chủ linux. chỉ
     cần nhấp chuột là cài đặt môi trường và phần mềm phát triển
     LEMP/LAMP/OpenLiteSpeed
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/aapanel-script-post.png

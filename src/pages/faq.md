@@ -24,7 +24,7 @@ sections:
 seo:
   title: FAQ - Tuan Duc Service
   description: Các câu hỏi thường gặp khi sử dụng dịch vụ của Tuan Duc Design
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg

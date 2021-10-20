@@ -53,7 +53,7 @@ sections:
 seo:
   title: Cài đặt VPS miễn phí - Tuan Duc Service
   description: Thông tin về gói cài đặt VPS miễn phí
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg

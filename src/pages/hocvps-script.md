@@ -9,7 +9,7 @@ seo:
   description: >-
     HocVPS Script là 1 bash script chạy trên SSH sẽ tự động cài đặt tất cả các
     thành phần cần thiết nhất cho VPS với một dòng lệnh duy nhất.
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/hocvps-script-v2.0.png

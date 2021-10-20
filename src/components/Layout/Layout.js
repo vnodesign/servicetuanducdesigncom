@@ -1,9 +1,10 @@
 import React from 'react';
 import {Helmet} from 'react-helmet';
 import _ from 'lodash';
+import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import { FacebookProvider, CustomChat } from 'react-facebook';
 import {withPrefix, attribute} from '../../utils';
-import '../../sass/main.scss';
+//import '../../sass/main.scss';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 
@@ -55,9 +56,11 @@ export default class Body extends React.Component {
                     {this.props.children}
                   </main>
                   <Footer {...this.props} />
+                  <LazyLoadComponent>
                   <FacebookProvider appId="294587991860787" chatSupport>
                     <CustomChat pageId="121349286117840" minimized={false}/>
                   </FacebookProvider>
+                  </LazyLoadComponent>
                 </div>
             </React.Fragment>
         );

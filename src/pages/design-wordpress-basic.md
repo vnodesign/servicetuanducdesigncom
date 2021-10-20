@@ -69,7 +69,7 @@ sections:
 seo:
   title: Thiết kế WordPress Basic - Tuan Duc Service
   description: Thông tin về gói thiết kế WordPress Basic
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg

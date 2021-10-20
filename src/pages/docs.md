@@ -66,7 +66,7 @@ sections:
 seo:
   title: Tài liệu - Tuan Duc Service
   description: Tài liệu hướng dẫn sử dụng VPS và Bash Script dành cho người mới sử dụng VPS
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg

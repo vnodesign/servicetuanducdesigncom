@@ -45,7 +45,7 @@ seo:
   description: >-
     Chúng tôi luôn chọn hệ điều hành CentOS 7 hoặc CentOS 8 để hỗ trợ khách hàng
     dễ dàng khi sử dụng dịch vụ của mình.
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg

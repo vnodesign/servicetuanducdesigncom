@@ -9,7 +9,7 @@ seo:
   description: >-
     WordPress là mã nguồn mở giúp bạn tạo website, blog hay ứng dụng dễ dàng và
     đẹp mắt.
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/wordpress-post.png

@@ -69,7 +69,7 @@ sections:
 seo:
   title: Cài đặt WordPress Basic - Tuan Duc Service
   description: Thông tin về gói cài đặt WordPress Basic
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg

@@ -232,7 +232,7 @@ seo:
   description: >-
     Tuan Duc Design luôn mong muốn cung cấp các dịch vụ tốt nhất dành cho khách
     hàng.
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg

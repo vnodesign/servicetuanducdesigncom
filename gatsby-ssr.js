@@ -10,7 +10,12 @@ const withPrefix = require("./src/utils/withPrefix").default;
 exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
 
     setHeadComponents([
-        
+        <React.Fragment>
+            <link rel="preload" href={withPrefix('css/application.css')} as="style" />
+            <link rel="preload" href={withPrefix('js/application.js')} as="script" />
+            <link rel="stylesheet" href={withPrefix('css/application.css')} type="text/css" />
+            
+        </React.Fragment>
     ]);
 
     setPostBodyComponents([
