@@ -1,13 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
 import {htmlToReact, markdownify} from '../../utils';
-import loadable from '@loadable/component';
 import FormField from '../Form/FormField';
 import '../../sass/recaptcha.scss';
-const ReCAPTCHA = loadable(() =>
-  import(/* webpackPrefetch: true */ 'react-google-recaptcha')
-);
-//import ReCAPTCHA from "react-google-recaptcha";
+import ReCAPTCHA from "react-google-recaptcha";
 export default class SectionContact extends React.Component {
     constructor(props) {
     super(props);

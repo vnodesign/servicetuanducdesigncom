@@ -1,11 +1,7 @@
 import React from 'react';
 import {Helmet} from 'react-helmet';
 import _ from 'lodash';
-import loadable from '@loadable/component';
-const { FacebookProvider, CustomChat } = loadable(() =>
-  import(/* webpackPrefetch: true */ 'react-facebook')
-);
-//import { FacebookProvider, CustomChat } from 'react-facebook';
+import { FacebookProvider, CustomChat } from 'react-facebook';
 import {withPrefix, attribute} from '../../utils';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
