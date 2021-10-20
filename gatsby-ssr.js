@@ -15,9 +15,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
 
     setPostBodyComponents([
         <React.Fragment>
-            <script src={withPrefix('js/plugins.js')} defer/>
-            <script src={withPrefix('js/init.js')} defer/>
-            <script src={withPrefix('js/main.js')} defer/>
+            <script src={withPrefix('js/application.js')} defer/>
             
         </React.Fragment>
     ]);

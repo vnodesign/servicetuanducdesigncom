@@ -1,8 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {Link, withPrefix, classNames} from '../utils';
-import Icon from './Icon';
+import {Link, withPrefix, classNames} from '../../utils';
+import Icon from '../Icon/Icon';
 
 export default class Action extends React.Component {
     render() {

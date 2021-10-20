@@ -2,10 +2,10 @@ import React from 'react';
 import {Helmet} from 'react-helmet';
 import _ from 'lodash';
 import { FacebookProvider, CustomChat } from 'react-facebook';
-import {withPrefix, attribute} from '../utils';
-import '../sass/main.scss';
-import Header from './Header';
-import Footer from './Footer';
+import {withPrefix, attribute} from '../../utils';
+import '../../sass/main.scss';
+import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 export default class Body extends React.Component {
     render() {
@@ -16,7 +16,6 @@ export default class Body extends React.Component {
                     <title>{_.get(this.props, 'pageContext.frontmatter.seo.title', null) ? (_.get(this.props, 'pageContext.frontmatter.seo.title', null)) : _.get(this.props, 'pageContext.frontmatter.title', null) + ' | ' + _.get(this.props, 'pageContext.site.siteMetadata.title', null)}</title>
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
-                    <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.seo.description', null) || ''} />
                     {_.get(this.props, 'pageContext.frontmatter.seo.robots', null) && (
                     <meta name="robots" content={_.join(_.get(this.props, 'pageContext.frontmatter.seo.robots', null), ',')}/>
@@ -57,7 +56,7 @@ export default class Body extends React.Component {
                   </main>
                   <Footer {...this.props} />
                   <FacebookProvider appId="294587991860787" chatSupport>
-                    <CustomChat pageId="121349286117840" minimized={true}/>
+                    <CustomChat pageId="121349286117840" minimized={false}/>
                   </FacebookProvider>
                 </div>
             </React.Fragment>

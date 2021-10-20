@@ -1,19 +1,20 @@
 import React from 'react';
 import _ from 'lodash';
-import {htmlToReact, markdownify} from '../utils';
-import FormField from './FormField';
-import '../sass/recaptcha.scss';
+import {htmlToReact, markdownify} from '../../utils';
+import { useForm } from '@formspree/react';
+import FormField from '../Form/FormField';
+import '../../sass/recaptcha.scss';
 import ReCAPTCHA from "react-google-recaptcha";
 export default class SectionContact extends React.Component {
     constructor(props) {
     super(props);
-    this.submitForm = this.submitForm.bind(this);
     this.state = {
       status: ""
     };
     }
     render() {
         const { status } = this.state;
+        const [submitForm] = useForm('mknkawry');
         let section = _.get(this.props, 'section', null);
         return (
             <section id={_.get(section, 'section_id', null)} className={'block contact-block bg-' + _.get(section, 'background', null) + ' outer'}>
@@ -29,7 +30,7 @@ export default class SectionContact extends React.Component {
               </div>
               <div className="block-content inner-medium">
                 {markdownify(_.get(section, 'content', null))}
-                <form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)}{...(_.get(section, 'form_action', null) ? ({action: _.get(section, 'form_action', null)}) : null)} method="POST" action="https://formspree.io/f/mknkawry" onSubmit={this.submitForm}>
+                <form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)}{...(_.get(section, 'form_action', null) ? ({action: _.get(section, 'form_action', null)}) : null)} method="POST" onSubmit={submitForm}>
                   <div className="screen-reader-text">
                     <label id={_.get(section, 'form_id', null)} htmlFor={_.get(section, 'form_id', null)}>Don't fill this out if you're human:</label>
                     <input aria-labelledby={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)} name={_.get(section, 'form_id', null)} />
