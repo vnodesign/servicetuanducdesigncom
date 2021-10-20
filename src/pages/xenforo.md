@@ -9,7 +9,7 @@ seo:
   description: >-
     Xenforo là mã nguồn mở được xây dựng bởi các lập trình viên tách ra từ nhóm
     vBullentin (vBB)
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/xenforo.png

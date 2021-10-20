@@ -69,7 +69,7 @@ sections:
 seo:
   title: Thiết kế WordPress Pro - Tuan Duc Service
   description: Thông tin về gói thiết kế WordPress Pro
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg

@@ -9,7 +9,7 @@ seo:
   description: >-
     Joomla! là một hệ thống quản lý nội dung (CMS) cho phép bạn xây dựng trang
     web và ứng dụng trực tuyến mạnh mẽ.
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/joomla.png

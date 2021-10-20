@@ -6134,6 +6134,13 @@ gatsby-page-utils@^0.9.1:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
+gatsby-plugin-canonical-urls@^3.14.0:
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-3.14.0.tgz#f268cc2d243f45534714eae98cac7fc6d5f44276"
+  integrity sha512-xEyNK5dlJtKKce2KUtt5gTjYevC6hKZAPevQhy1Dk2zuvk7N1Fbh6gxT1Vv0p9DJyt/7xbzHz2tYpP+Q9X/Wlg==
+  dependencies:
+    "@babel/runtime" "^7.15.4"
+
 gatsby-plugin-google-adsense@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-adsense/-/gatsby-plugin-google-adsense-1.1.3.tgz#267e24880a7634d988bb09b920a115a80f826d55"

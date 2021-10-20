@@ -9,7 +9,7 @@ seo:
   description: >-
     Drupal là một khung sườn phát triển phần mềm hướng mô-đun, một hệ quản trị
     nội dung miễn phí và mã nguồn mở.
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/drupal-post.png

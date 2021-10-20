@@ -84,7 +84,7 @@ seo:
   description: >-
     Những mã nguồn phổ biến trên thế giới như WordPress, Joomla, Drupal,
     Xenforo, Laravel, Codeigniter.
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/58111AA6-D0D9-4C10-BC6C-068FDAC2CE6D_4_5005_c.jpeg

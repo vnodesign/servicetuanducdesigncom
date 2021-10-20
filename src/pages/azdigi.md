@@ -9,7 +9,7 @@ seo:
   description: >-
     Dịch vụ Web Hosting cao cấp mạnh mẽ nhất dành cho doanh nghiệp và website
     thương mại điện tử.
-  robots: []
+  robots: [index, follow]
   extra:
     - name: 'og:image'
       value: images/azdigi.jpg

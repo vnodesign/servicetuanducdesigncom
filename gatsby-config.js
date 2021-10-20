@@ -108,6 +108,12 @@ module.exports = {
             domains: ['https://pagead2.googlesyndication.com', 'https://www.googletagmanager.com', 'https://connect.facebook.net', 'https://www.facebook.com', 'https://static.xx.fbcdn.net', 'https://www.google-analytics.com', 'https://www.google.com'],
           },
           },
+        {
+            resolve: `gatsby-plugin-canonical-urls`,
+            options: {
+              siteUrl: `https://service.tuanducdesign.com`,
+            },
+          },
         'gatsby-plugin-sitemap',
         {
             resolve: `@stackbit/gatsby-plugin-menus`,
