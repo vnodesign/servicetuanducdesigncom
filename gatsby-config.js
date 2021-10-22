@@ -61,6 +61,7 @@ module.exports = {
         defaultDataLayer: {
           platform: 'gatsby'
         },
+        enableWebVitalsTracking: true,
       },
     },
     {
