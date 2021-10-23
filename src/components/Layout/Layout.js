@@ -3,6 +3,7 @@ import {Helmet} from 'react-helmet';
 import _ from 'lodash';
 import { FacebookProvider, CustomChat } from 'react-facebook';
 import {withPrefix, attribute} from '../../utils';
+import '../../sass/main.scss';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 

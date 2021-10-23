@@ -116,14 +116,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-brotli',
-      options: {
-        extensions: ['css', 'html', 'js', 'svg'],
-        level: 4,
-        path: 'minify'
-      }
-    },
-    {
     resolve: `gatsby-plugin-nprogress`,
     options: {
       // Setting a color is optional.
