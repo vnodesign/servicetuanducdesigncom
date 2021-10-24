@@ -28,4 +28,4 @@ jobs:
         USERNAME: ${{ secrets.USERNAME }}
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.SSHKEY }}
-        script: cd ${{ secrets.DOCUMENT_ROOT }} && yarn install && yarn build
+        script: cd ${{ secrets.DOCUMENT_ROOT }} && rm -rf .git* .white* *.md *.toml *.yaml reno* ngx* && yarn install && yarn build
