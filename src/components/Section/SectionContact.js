@@ -67,7 +67,7 @@ export default class SectionContact extends React.Component {
       if (xhr.readyState !== XMLHttpRequest.DONE) return; // check state and request
       // check status
       if (xhr.status === 200) {
-        form.reset().delay('2000').fadeIn('500'); // reset form after sending
+        form.reset(); // reset form after sending
         this.setState({ status: "SUCCESS" }); // sending success
       } else {
         this.setState({ status: "ERROR" }); // sending error
