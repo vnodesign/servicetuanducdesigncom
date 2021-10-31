@@ -24,7 +24,7 @@ sections:
         default_value: Địa chỉ Email
         options: []
         is_required: true
-      - input_type: number
+      - input_type: text
         name: ip_vps
         label: IP VPS *
         default_value: IP VPS
