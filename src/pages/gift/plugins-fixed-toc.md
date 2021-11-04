@@ -2,7 +2,7 @@
 title: Quà tặng Plugins Fixed TOC+
 sections:
   - section_id: gift-plugins
-    title: lorem-ipsum
+    title: 'Nhận quà tặng Plugins '
     content: >-
       ## Lorem ipsum
 
