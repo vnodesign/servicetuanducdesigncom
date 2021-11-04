@@ -43,7 +43,7 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-      - title: lorem-ipsum
+      - title: WordPress Plugins
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
