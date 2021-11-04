@@ -9,7 +9,7 @@ sections:
     image_alt: lorem-ipsum
     actions:
       - label: Tìm hiểu sự khác biệt giữa bản Free và bản Pro
-        url: 'https://demo.webvars.com/fixedtoc/demo-1/'
+        url: 'https://rankmath.com/offer/'
         style: secondary
         has_icon: true
         icon: arrow-right
