@@ -28,10 +28,6 @@ sections:
 
           5.  Image
 
-          6.  Redirections
-
-          7.  Schema Templates
-
           Ngoài ra còn một số chức năng khác
         highlight: false
         actions:
