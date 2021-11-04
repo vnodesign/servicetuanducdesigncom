@@ -45,7 +45,7 @@ sections:
             no_follow: false
       - title: WordPress Plugins
         subtitle: Plugins Fixed TOC+
-        price: lorem-ipsum
+        price: 0 VNĐ
         details: >-
           ## Lorem ipsum
 
