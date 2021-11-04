@@ -39,7 +39,7 @@ sections:
         label: Bạn muốn sử dụng phiên bản nào? *
         default_value: Lựa chọn phiên bản
         options: []
-        is_required: false
+        is_required: true
     submit_label: lorem-ipsum
     type: section_contact
     section_id: get-plugin
