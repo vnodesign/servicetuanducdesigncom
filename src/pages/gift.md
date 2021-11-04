@@ -15,17 +15,24 @@ sections:
       - title: WordPress Plugins
         subtitle: Plugins SEO Rankmath
         price: 0 VNĐ
-        details: >-
-          ## Lorem ipsum
+        details: |
+          Một số chức năng sau được bổ sung trong SEO Rankmath Pro:
 
+          1.  Tích hợp GG Analytics và Search Console
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          2.  Site Analytics
 
+          3.  SEO Performance và Keywords
 
-          - Lorem ipsum
+          4.  Rank Tracker
 
-          - dolor sit amet
+          5.  Image
+
+          6.  Redirections
+
+          7.  Schema Templates
+
+          Ngoài ra còn một số chức năng khác.
         highlight: false
         actions: []
       - title: lorem-ipsum
