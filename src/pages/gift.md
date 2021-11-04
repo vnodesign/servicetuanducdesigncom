@@ -56,7 +56,7 @@ sections:
           5.  Di chuyển mượt mà đến mục tiêu tiêu đề
 
           Ngoài ra còn một số chức năng khác
-        highlight: false
+        highlight: true
         actions:
           - label: Nhận quà
             url: '#'
