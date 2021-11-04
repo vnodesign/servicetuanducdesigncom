@@ -62,7 +62,7 @@
                 "no_follow": false
             },
             {
-                "label": "Tài liệu",
+                "label": "Docs",
                 "url": "/docs",
                 "style": "primary",
                 "has_icon": false,
