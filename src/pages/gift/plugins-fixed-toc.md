@@ -38,7 +38,8 @@ sections:
         name: version_plugin
         label: Bạn muốn sử dụng phiên bản nào? *
         default_value: Lựa chọn phiên bản
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
     submit_label: lorem-ipsum
     type: section_contact
