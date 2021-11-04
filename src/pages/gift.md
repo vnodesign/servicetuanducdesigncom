@@ -46,17 +46,26 @@ sections:
       - title: WordPress Plugins
         subtitle: Plugins Fixed TOC+
         price: 0 VNĐ
-        details: >-
-          ## Lorem ipsum
+        details: |
+          Các chức năng chính của Plugins **Fixed TOC+**:
 
+          1.  **Tạo mục lục tự động** từ nội dung bài đăng
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          2.  Hỗ trợ bài đăng, trang và bất kỳ loại bài đăng công khai nào khác
 
+          3.  **Hỗ trợ tốt trên mọi kích thước** của thiết bị
 
-          - Lorem ipsum
+          4.  Hỗ trợ thêm vào widget để sửa trong sidebar
 
-          - dolor sit amet
+          5.  **Di chuyển mượt** mà đến mục tiêu tiêu đề
+
+          6.  Chỉ ra tiêu đề truy cập hiện tại một cách động
+
+          7.  **Bật thu gọn/mở rộng** danh sách phụ
+
+          8.  Tùy chỉnh tự do vị trí, kích thước, phông chữ, màu sắc, v.v
+
+          9.
         highlight: false
         actions: []
       - title: lorem-ipsum
