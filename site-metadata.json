@@ -62,9 +62,9 @@
                 "no_follow": false
             },
             {
-                "label": "Docs",
-                "url": "/docs",
-                "style": "primary",
+                "label": "Gift",
+                "url": "/gift",
+                "style": "secondary",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "left",
@@ -72,9 +72,9 @@
                 "no_follow": false
             },
             {
-                "label": "Gift",
-                "url": "/gift",
-                "style": "secondary",
+                "label": "Docs",
+                "url": "/docs",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "left",
