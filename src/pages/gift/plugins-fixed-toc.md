@@ -25,7 +25,7 @@ sections:
       - input_type: text
         name: username
         label: Họ và tên
-        default_value: lorem-ipsum
+        default_value: Họ và tên
         options: []
         is_required: false
       - input_type: text
