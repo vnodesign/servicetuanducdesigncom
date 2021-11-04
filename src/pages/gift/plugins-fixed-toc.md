@@ -9,7 +9,7 @@ sections:
     image_alt: lorem-ipsum
     actions:
       - label: Xem trước
-        url: '#'
+        url: 'https://demo.webvars.com/fixedtoc/demo-1/'
         style: secondary
         has_icon: false
         icon: arrow-left
