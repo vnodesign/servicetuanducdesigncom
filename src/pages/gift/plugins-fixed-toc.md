@@ -11,7 +11,7 @@ sections:
       - label: Xem trước
         url: 'https://demo.webvars.com/fixedtoc/demo-1/'
         style: secondary
-        has_icon: false
+        has_icon: true
         icon: arrow-right
         icon_position: right
         new_window: true
