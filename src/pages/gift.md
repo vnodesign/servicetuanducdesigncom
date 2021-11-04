@@ -10,7 +10,6 @@ sections:
     actions: []
     type: section_hero
   - section_id: gift-main
-    subtitle: lorem-ipsum
     background: gray
     pricing_plans: []
     type: section_pricing
