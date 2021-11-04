@@ -30,7 +30,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: Địa chỉ email
+        label: Địa chỉ email *
         default_value: Địa chỉ email
         options: []
         is_required: false
