@@ -18,7 +18,7 @@ sections:
         no_follow: false
     type: section_hero
   - background: gray
-    form_id: lorem-ipsum
+    form_id: get-plugin-fixed-toc
     form_action: lorem-ipsum
     hide_labels: false
     form_fields: []
