@@ -192,7 +192,7 @@
             {
                 "title": "Liên hệ",
                 "form_id": "contacts",
-                "form_action": "lorem-ipsum",
+                "form_action": "contacts",
                 "hide_labels": false,
                 "form_fields": [],
                 "submit_label": "lorem-ipsum",
