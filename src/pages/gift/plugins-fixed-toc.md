@@ -1,5 +1,5 @@
 ---
-title: Quà tặng Plugins Fixed TOC+
+title: Quà tặng Plugin Fixed TOC+
 sections:
   - section_id: gift-plugin
     title: Nhận quà tặng Plugin Fixed TOC+
