@@ -14,7 +14,7 @@ sections:
     pricing_plans:
       - title: WordPress Plugins
         subtitle: Plugins SEO Rankmath
-        price: lorem-ipsum
+        price: 0 VNĐ
         details: >-
           ## Lorem ipsum
 
