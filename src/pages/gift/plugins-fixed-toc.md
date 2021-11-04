@@ -41,7 +41,7 @@ sections:
         options:
           - Phiên bản 1.x
           - Phiên bản 2.x
-          - lorem-ipsum
+          - Phiên bản 3.x
         is_required: true
     submit_label: lorem-ipsum
     type: section_contact
