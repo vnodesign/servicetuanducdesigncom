@@ -9,7 +9,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-  - section_id: lorem-ipsum
+  - section_id: gift-main
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
