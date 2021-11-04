@@ -88,7 +88,7 @@
             {
                 "image_alt": "lorem-ipsum",
                 "image_url": "lorem-ipsum",
-                "content": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+                "content": "Chuyên cung cấp dịch vụ VPS và Website, Hướng dẫn bảo mật VPS và Website từ cơ bản đến nâng cao cho người không chuyên, Hỗ trợ cài đặt VPS,Tối ưu VPS thông qua module PageSpeed của Google,Cài đặt Memcached,Redis,SSL và Cloudflare.\n",
                 "type": "footer_text"
             },
             {
