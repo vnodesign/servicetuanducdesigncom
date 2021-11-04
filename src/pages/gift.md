@@ -13,7 +13,7 @@ sections:
     background: gray
     pricing_plans:
       - title: WordPress Plugins
-        subtitle: lorem-ipsum
+        subtitle: Plugins SEO Rankmath
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
