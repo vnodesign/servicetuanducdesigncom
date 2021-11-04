@@ -39,7 +39,7 @@ sections:
     section_id: get-plugin
     title: Đăng ký nhận Plugin
 seo:
-  title: Quà tặng Plugins Fixed Toc+ - Tuan Duc Service
+  title: Quà tặng Plugin Fixed Toc+ - Tuan Duc Service
   description: >-
     Quà tặng Plugins Fixed Toc+ dành riêng cho khách hàng đã đăng ký và sử dụng
     các dịch vụ liên quan đến WordPress
