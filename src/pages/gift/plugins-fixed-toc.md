@@ -1,7 +1,7 @@
 ---
 title: Quà tặng Plugins Fixed TOC+
 sections:
-  - section_id: gift-plugins
+  - section_id: gift-plugin
     title: Nhận quà tặng Plugins Fixed TOC+
     content: >
       Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ WordPress của chúng tôi, chúng
