@@ -12,7 +12,7 @@ sections:
         url: 'https://demo.webvars.com/fixedtoc/demo-1/'
         style: secondary
         has_icon: false
-        icon: arrow-left
+        icon: arrow-right
         icon_position: left
         new_window: true
         no_follow: false
