@@ -62,7 +62,17 @@
                 "no_follow": false
             },
             {
-                "label": "Tài liệu",
+                "label": "Gift",
+                "url": "/gift",
+                "style": "secondary",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Docs",
                 "url": "/docs",
                 "style": "primary",
                 "has_icon": false,
@@ -76,11 +86,11 @@
     "footer": {
         "sections": [
             {
+                "image_alt": "lorem-ipsum",
+                "image_url": "lorem-ipsum",
+                "content": "Chuyên cung cấp dịch vụ VPS và Website, Hướng dẫn bảo mật VPS và Website từ cơ bản đến nâng cao cho người không chuyên, Hỗ trợ cài đặt VPS,Tối ưu VPS thông qua module PageSpeed của Google,Cài đặt Memcached,Redis,SSL và Cloudflare.\n",
                 "type": "footer_text",
-                "image": "images/B5B2444A-79B2-42B1-AE08-FF1CCE67FFE5_4_6006.png",
-                "image_url": "/",
-                "image_alt": "Tuan Duc Design",
-                "content": "Chuyên cung cấp dịch vụ VPS và Website, Hướng dẫn bảo mật VPS và Website từ cơ bản đến nâng cao cho người không chuyên, Hỗ trợ cài đặt VPS,Tối ưu VPS thông qua module PageSpeed của Google,Cài đặt Memcached,Redis,SSL và Cloudflare.\n"
+                "image": "images/B5B2444A-79B2-42B1-AE08-FF1CCE67FFE5_4_6006.png"
             },
             {
                 "type": "footer_nav",
