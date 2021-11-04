@@ -35,7 +35,7 @@ sections:
           Ngoài ra còn một số chức năng khác.
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Nhận quà
             url: '#'
             style: primary
             has_icon: false
