@@ -4,8 +4,8 @@ sections:
   - section_id: gift
     title: Quà tặng
     content: >
-      Quà tặng dành riêng cho khách hàng sử dụng các dịch vụ liên quan đến
-      WordPress
+      Quà tặng dành riêng cho khách hàng đăng ký và sử dụng các dịch vụ liên
+      quan đến WordPress trên Tuan Duc Service
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
