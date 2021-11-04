@@ -34,7 +34,7 @@ sections:
         default_value: Địa chỉ email
         options: []
         is_required: true
-    submit_label: lorem-ipsum
+    submit_label: Submit
     type: section_contact
     section_id: get-plugin
     title: Đăng ký nhận Plugin
