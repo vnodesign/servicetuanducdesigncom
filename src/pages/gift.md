@@ -59,7 +59,7 @@ sections:
         highlight: true
         actions:
           - label: Nhận quà
-            url: /gift/
+            url: /gift/seo-rankmath-pro
             style: primary
             has_icon: false
             icon: arrow-left
