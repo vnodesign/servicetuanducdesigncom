@@ -19,7 +19,7 @@ sections:
     type: section_hero
   - background: gray
     form_id: get-plugin-fixed-toc
-    form_action: lorem-ipsum
+    form_action: get-plugin-fixed-toc
     hide_labels: false
     form_fields: []
     submit_label: lorem-ipsum
