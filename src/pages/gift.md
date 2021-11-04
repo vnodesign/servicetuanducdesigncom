@@ -2,7 +2,7 @@
 title: Quà tặng
 sections:
   - section_id: gift
-    title: lorem-ipsum
+    title: Quà tặng
     content: >-
       ## Lorem ipsum
 
