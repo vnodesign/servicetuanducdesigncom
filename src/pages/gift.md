@@ -59,7 +59,7 @@ sections:
         highlight: true
         actions:
           - label: Nhận quà
-            url: '#'
+            url: /gift/
             style: primary
             has_icon: false
             icon: arrow-left
