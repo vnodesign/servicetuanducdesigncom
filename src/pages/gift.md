@@ -40,7 +40,7 @@ sections:
             new_window: false
             no_follow: false
       - title: WordPress Plugin
-        subtitle: Plugins SEO Rankmath Pro
+        subtitle: Plugin SEO Rankmath Pro
         price: 0 VNĐ
         details: |
           Một số chức năng sau được bổ sung trong **SEO Rankmath Pro**:
