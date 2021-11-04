@@ -33,7 +33,7 @@ sections:
         label: Địa chỉ email *
         default_value: Địa chỉ email
         options: []
-        is_required: false
+        is_required: true
     submit_label: lorem-ipsum
     type: section_contact
     section_id: get-plugin
