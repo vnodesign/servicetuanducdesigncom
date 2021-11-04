@@ -73,7 +73,7 @@
             },
             {
                 "label": "Gift",
-                "url": "/",
+                "url": "/gift",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
