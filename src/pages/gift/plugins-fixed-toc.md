@@ -36,7 +36,7 @@ sections:
         is_required: true
       - input_type: select
         name: version_plugin
-        label: lorem-ipsum
+        label: Bạn muốn sử dụng phiên bản nào? *
         default_value: lorem-ipsum
         options: []
         is_required: false
