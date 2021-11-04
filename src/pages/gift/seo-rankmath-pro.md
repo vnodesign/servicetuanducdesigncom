@@ -2,7 +2,7 @@
 title: Quà tặng Plugin SEO Rankmath Pro
 sections:
   - section_id: gift-plugin
-    title: Nhận quà tặng Plugin Fixed TOC+
+    title: Nhận quà tặng Plugin SEO Rankmath Pro
     content: >
       Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ WordPress của chúng tôi, chúng
       tôi có một món quà nho nhỏ muốn dành tặng cho các bạn.
