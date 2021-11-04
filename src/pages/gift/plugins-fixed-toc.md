@@ -34,15 +34,6 @@ sections:
         default_value: Địa chỉ email
         options: []
         is_required: true
-      - input_type: select
-        name: version_plugin
-        label: Bạn muốn sử dụng phiên bản nào? *
-        default_value: Lựa chọn phiên bản
-        options:
-          - Phiên bản 1.x
-          - Phiên bản 2.x
-          - Phiên bản 3.x
-        is_required: true
     submit_label: lorem-ipsum
     type: section_contact
     section_id: get-plugin
