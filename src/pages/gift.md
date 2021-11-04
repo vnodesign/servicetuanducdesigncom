@@ -10,7 +10,6 @@ sections:
     actions: []
     type: section_hero
   - section_id: gift-main
-    title: Danh sách quà tặng
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []
