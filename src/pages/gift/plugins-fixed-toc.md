@@ -3,17 +3,9 @@ title: Quà tặng Plugins Fixed TOC+
 sections:
   - section_id: gift-plugins
     title: Nhận quà tặng Plugins Fixed TOC+
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ WordPress của chúng tôi, chúng
+      tôi có một món quà nho nhỏ muốn dành tặng cho các bạn
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
