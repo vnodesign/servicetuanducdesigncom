@@ -1,7 +1,7 @@
 ---
 title: Quà tặng
 sections:
-  - section_id: lorem-ipsum
+  - section_id: gift
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
