@@ -3,17 +3,9 @@ title: Quà tặng
 sections:
   - section_id: gift
     title: Quà tặng
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Quà tặng dành riêng cho khách hàng sử dụng các dịch vụ liên quan đến
+      WordPress
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
