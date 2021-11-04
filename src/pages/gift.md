@@ -16,7 +16,7 @@ sections:
         subtitle: Plugins Fixed TOC+
         price: 0 VNĐ
         details: |
-          Các chức năng chính của Plugins **Fixed TOC+**:
+          Các chức năng chính của Plugin **Fixed TOC+**:
 
           1.  **Tạo mục lục tự động** từ nội dung bài đăng
 
