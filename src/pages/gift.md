@@ -44,7 +44,7 @@ sections:
             new_window: false
             no_follow: false
       - title: WordPress Plugins
-        subtitle: lorem-ipsum
+        subtitle: Plugins Fixed TOC+
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
