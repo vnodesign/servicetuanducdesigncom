@@ -57,7 +57,7 @@ sections:
 
           4.  Hỗ trợ thêm vào widget để sửa trong sidebar
 
-          5.  **Di chuyển mượt** mà đến mục tiêu tiêu đề
+          5.  Di chuyển mượt mà đến mục tiêu tiêu đề
 
           Ngoài ra còn một số chức năng khác
         highlight: false
