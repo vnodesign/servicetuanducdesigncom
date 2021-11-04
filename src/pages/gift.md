@@ -13,33 +13,6 @@ sections:
     background: gray
     pricing_plans:
       - title: WordPress Plugins
-        subtitle: Plugins SEO Rankmath Pro
-        price: 0 VNĐ
-        details: |
-          Một số chức năng sau được bổ sung trong **SEO Rankmath Pro**:
-
-          1.  Tích hợp GG Analytics và Search Console
-
-          2.  Site Analytics
-
-          3.  SEO Performance và Keywords
-
-          4.  Rank Tracker
-
-          5.  Image
-
-          Ngoài ra còn một số chức năng khác
-        highlight: true
-        actions:
-          - label: Nhận quà
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-      - title: WordPress Plugins
         subtitle: Plugins Fixed TOC+
         price: 0 VNĐ
         details: |
@@ -57,6 +30,33 @@ sections:
 
           Ngoài ra còn một số chức năng khác
         highlight: false
+        actions:
+          - label: Nhận quà
+            url: '#'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+      - title: WordPress Plugins
+        subtitle: Plugins SEO Rankmath Pro
+        price: 0 VNĐ
+        details: |
+          Một số chức năng sau được bổ sung trong **SEO Rankmath Pro**:
+
+          1.  Tích hợp GG Analytics và Search Console
+
+          2.  Site Analytics
+
+          3.  SEO Performance và Keywords
+
+          4.  Rank Tracker
+
+          5.  Image
+
+          Ngoài ra còn một số chức năng khác
+        highlight: true
         actions:
           - label: Nhận quà
             url: '#'
