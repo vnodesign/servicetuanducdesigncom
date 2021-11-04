@@ -41,7 +41,7 @@ sections:
 seo:
   title: Quà tặng Plugin Fixed Toc+ - Tuan Duc Service
   description: >-
-    Quà tặng Plugins Fixed Toc+ dành riêng cho khách hàng đã đăng ký và sử dụng
+    Quà tặng Plugin Fixed Toc+ dành riêng cho khách hàng đã đăng ký và sử dụng
     các dịch vụ liên quan đến WordPress
   robots: []
   extra:
