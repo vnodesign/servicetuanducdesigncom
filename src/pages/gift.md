@@ -16,7 +16,7 @@ sections:
         subtitle: Plugins SEO Rankmath
         price: 0 VNĐ
         details: |
-          Một số chức năng sau được bổ sung trong SEO Rankmath Pro:
+          Một số chức năng sau được bổ sung trong **SEO Rankmath Pro**:
 
           1.  Tích hợp GG Analytics và Search Console
 
