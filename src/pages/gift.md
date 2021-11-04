@@ -13,7 +13,7 @@ sections:
     background: gray
     pricing_plans:
       - title: WordPress Plugins
-        subtitle: Plugins SEO Rankmath
+        subtitle: Plugins SEO Rankmath Pro
         price: 0 VNĐ
         details: |
           Một số chức năng sau được bổ sung trong **SEO Rankmath Pro**:
