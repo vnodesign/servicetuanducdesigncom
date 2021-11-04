@@ -17,8 +17,7 @@ sections:
         new_window: true
         no_follow: false
     type: section_hero
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
