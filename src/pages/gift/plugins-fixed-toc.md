@@ -40,6 +40,7 @@ sections:
         default_value: Lựa chọn phiên bản
         options:
           - Phiên bản 1.x
+          - lorem-ipsum
         is_required: true
     submit_label: lorem-ipsum
     type: section_contact
