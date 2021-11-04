@@ -8,7 +8,7 @@ sections:
       tôi có một món quà nho nhỏ muốn dành tặng cho các bạn.
     image_alt: lorem-ipsum
     actions:
-      - label: Xem trước
+      - label: Tìm hiểu sự khác biệt giữa bản Free và bản Pro
         url: 'https://demo.webvars.com/fixedtoc/demo-1/'
         style: secondary
         has_icon: true
