@@ -39,7 +39,7 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-      - title: WordPress Plugins
+      - title: WordPress Plugin
         subtitle: Plugins SEO Rankmath Pro
         price: 0 VNĐ
         details: |
