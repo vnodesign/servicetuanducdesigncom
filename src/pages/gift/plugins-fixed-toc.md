@@ -37,6 +37,7 @@ sections:
     form_fields: []
     submit_label: lorem-ipsum
     type: section_contact
+    section_id: get-plugins
 seo:
   title: Quà tặng Plugins Fixed Toc+ - Tuan Duc Service
   description: >-
