@@ -71,7 +71,7 @@ sections:
             new_window: false
             no_follow: false
       - title: WordPress Themes
-        subtitle: lorem-ipsum
+        subtitle: Theme giống trang Medium
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
