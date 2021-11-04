@@ -12,11 +12,11 @@ sections:
   - section_id: gift-main
     background: gray
     pricing_plans:
-      - title: WordPress Plugins
-        subtitle: Plugins Fixed TOC+
+      - title: WordPress Plugin
+        subtitle: Plugin Fixed TOC+
         price: 0 VNĐ
         details: |
-          Các chức năng chính của Plugins **Fixed TOC+**:
+          Các chức năng chính của Plugin **Fixed TOC+**:
 
           1.  **Tạo mục lục tự động** từ nội dung bài đăng
 
@@ -32,15 +32,15 @@ sections:
         highlight: false
         actions:
           - label: Nhận quà
-            url: '#'
+            url: /gift/fixed-toc
             style: primary
             has_icon: false
             icon: arrow-left
             icon_position: left
             new_window: false
             no_follow: false
-      - title: WordPress Plugins
-        subtitle: Plugins SEO Rankmath Pro
+      - title: WordPress Plugin
+        subtitle: Plugin SEO Rankmath Pro
         price: 0 VNĐ
         details: |
           Một số chức năng sau được bổ sung trong **SEO Rankmath Pro**:
@@ -59,7 +59,7 @@ sections:
         highlight: true
         actions:
           - label: Nhận quà
-            url: '#'
+            url: /gift/seo-rankmath-pro
             style: primary
             has_icon: false
             icon: arrow-left
