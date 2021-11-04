@@ -21,7 +21,13 @@ sections:
     form_id: get-plugin-fixed-toc
     form_action: get-plugin-fixed-toc
     hide_labels: false
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: lorem-ipsum
     type: section_contact
     section_id: get-plugin
