@@ -9,6 +9,12 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
 seo:
   title: Quà tặng dành cho khách hàng - Tuan Duc Service
   description: >-
