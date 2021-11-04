@@ -12,7 +12,7 @@ sections:
   - section_id: gift-main
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: WordPress Plugins
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
