@@ -70,22 +70,6 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-      - title: WordPress Themes
-        subtitle: Theme giống trang Medium
-        price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        highlight: false
-        actions: []
     type: section_pricing
 seo:
   title: Quà tặng dành cho khách hàng - Tuan Duc Service
