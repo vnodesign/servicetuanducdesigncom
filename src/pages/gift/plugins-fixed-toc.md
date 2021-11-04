@@ -8,7 +8,7 @@ sections:
       tôi có một món quà nho nhỏ muốn dành tặng cho các bạn.
     image_alt: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Xem trước
         url: '#'
         style: secondary
         has_icon: false
