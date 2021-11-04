@@ -7,7 +7,15 @@ sections:
       Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ WordPress của chúng tôi, chúng
       tôi có một món quà nho nhỏ muốn dành tặng cho các bạn.
     image_alt: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
     type: section_hero
 seo:
   title: Quà tặng Plugins Fixed Toc+ - Tuan Duc Service
