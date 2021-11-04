@@ -27,7 +27,7 @@ sections:
         label: Họ và tên *
         default_value: Họ và tên
         options: []
-        is_required: false
+        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
