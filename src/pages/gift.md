@@ -60,12 +60,6 @@ sections:
           5.  **Di chuyển mượt** mà đến mục tiêu tiêu đề
 
           6.  Chỉ ra tiêu đề truy cập hiện tại một cách động
-
-          7.  **Bật thu gọn/mở rộng** danh sách phụ
-
-          8.  Tùy chỉnh tự do vị trí, kích thước, phông chữ, màu sắc, v.v
-
-          9.
         highlight: false
         actions: []
       - title: lorem-ipsum
