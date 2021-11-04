@@ -24,7 +24,7 @@ sections:
     form_fields:
       - input_type: text
         name: username
-        label: lorem-ipsum
+        label: Họ và tên
         default_value: lorem-ipsum
         options: []
         is_required: false
