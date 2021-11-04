@@ -12,7 +12,7 @@ sections:
   - section_id: gift-main
     background: gray
     pricing_plans:
-      - title: WordPress Plugins
+      - title: WordPress Plugin
         subtitle: Plugins Fixed TOC+
         price: 0 VNĐ
         details: |
