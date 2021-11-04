@@ -59,7 +59,7 @@ sections:
 
           5.  **Di chuyển mượt** mà đến mục tiêu tiêu đề
 
-          6.  Chỉ ra tiêu đề truy cập hiện tại một cách động
+          Ngoài ra còn một số chức năng khác
         highlight: false
         actions: []
       - title: lorem-ipsum
