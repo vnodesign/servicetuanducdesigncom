@@ -32,7 +32,7 @@ sections:
         highlight: false
         actions:
           - label: Nhận quà
-            url: '#'
+            url: /
             style: primary
             has_icon: false
             icon: arrow-left
