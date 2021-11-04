@@ -13,7 +13,7 @@ sections:
     background: gray
     pricing_plans:
       - title: WordPress Plugin
-        subtitle: Plugins Fixed TOC+
+        subtitle: Plugin Fixed TOC+
         price: 0 VNĐ
         details: |
           Các chức năng chính của Plugin **Fixed TOC+**:
