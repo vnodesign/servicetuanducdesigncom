@@ -29,7 +29,7 @@ sections:
           5.  Image
 
           Ngoài ra còn một số chức năng khác
-        highlight: false
+        highlight: true
         actions:
           - label: Nhận quà
             url: '#'
