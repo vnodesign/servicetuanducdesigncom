@@ -5,7 +5,7 @@ sections:
     title: Nhận quà tặng Plugins Fixed TOC+
     content: >
       Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ WordPress của chúng tôi, chúng
-      tôi có một món quà nho nhỏ muốn dành tặng cho các bạn
+      tôi có một món quà nho nhỏ muốn dành tặng cho các bạn.
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
