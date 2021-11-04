@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Quà tặng
 sections: []
 seo:
   title: Quà tặng dành cho khách hàng - Tuan Duc Service
