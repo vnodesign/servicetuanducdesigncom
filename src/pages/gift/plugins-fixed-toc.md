@@ -24,7 +24,7 @@ sections:
     form_fields:
       - input_type: text
         name: username
-        label: Họ và tên
+        label: Họ và tên *
         default_value: Họ và tên
         options: []
         is_required: false
