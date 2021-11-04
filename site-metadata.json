@@ -193,7 +193,7 @@
                 "title": "Liên hệ",
                 "form_id": "contacts",
                 "form_action": "contacts",
-                "hide_labels": false,
+                "hide_labels": true,
                 "form_fields": [
                     {
                         "input_type": "text",
