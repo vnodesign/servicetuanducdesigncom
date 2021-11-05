@@ -39,9 +39,9 @@ sections:
     section_id: get-plugin
     title: Đăng ký nhận Plugin
 seo:
-  title: Quà tặng Plugin Fixed Toc+ - Tuan Duc Service
+  title: Quà tặng Plugin SEO Rankmath Pro - Tuan Duc Service
   description: >-
-    Quà tặng Plugin Fixed Toc+ dành riêng cho khách hàng đã đăng ký và sử dụng
+    Quà tặng Plugin SEO Rankmath Pro dành riêng cho khách hàng đã đăng ký và sử dụng
     các dịch vụ liên quan đến WordPress
   robots: []
   extra:
