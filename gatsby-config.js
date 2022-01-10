@@ -94,12 +94,6 @@ module.exports = {
         },
       },
     },
-    {
-      resolve: `gatsby-plugin-google-adsense`,
-      options: {
-        publisherId: `ca-pub-4183134625750063`
-      },
-    },
     'gatsby-plugin-no-sourcemaps',
     'gatsby-plugin-optimize-svgs',
     'gatsby-plugin-robots-txt',
